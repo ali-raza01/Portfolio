@@ -2,3 +2,6 @@ geopandas
 folium 
 matplotlib 
 pandas
+seaborn
+scikit-learn
+xgboost
