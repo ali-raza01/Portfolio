@@ -1,17 +1,12 @@
-name: Deploy DBT Docs to GitHub Pages
+name: Generate and Deploy dbt Docs
 
 on:
   push:
     branches:
       - main
-    paths:
-      - 'data_engineer/**'
-      - 'sql_examples/**'
-      - 'docs/**'
-      - '.github/workflows/**'
 
 jobs:
-  build-dbt-docs:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -21,26 +16,43 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: '3.11'
 
-      - name: Install dependencies
+      - name: Install dbt
         run: |
           python -m pip install --upgrade pip
-          pip install dbt-core dbt-snowflake
+          pip install dbt-snowflake
+
+      - name: Parse DBT credentials from secret
+        run: |
+          echo "${{ secrets.DBT }}" > .env
+          export $(cat .env | xargs)
+
+          mkdir -p ~/.dbt
+          cat <<EOF > ~/.dbt/profiles.yml
+          sql_examples:
+            target: dev
+            outputs:
+              dev:
+                type: snowflake
+                account: $SNOWFLAKE_ACCOUNT
+                user: $SNOWFLAKE_USER
+                password: $SNOWFLAKE_PASSWORD
+                role: $SNOWFLAKE_ROLE
+                warehouse: $SNOWFLAKE_WAREHOUSE
+                database: $SNOWFLAKE_DATABASE
+                schema: $SNOWFLAKE_SCHEMA
+                threads: 1
+          EOF
+
+      - name: Run dbt deps
+        run: dbt deps
 
       - name: Generate dbt docs
-        working-directory: ./data_engineer/sql_examples
-        run: |
-          dbt deps
-          dbt docs generate
-
-      - name: Copy dbt docs to root docs folder
-        run: |
-          mkdir -p docs
-          cp -r data_engineer/sql_examples/target/* docs/
+        run: dbt docs generate
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs
+          publish_dir: ./target
