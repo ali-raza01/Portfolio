@@ -1,0 +1,97 @@
+-- Create a Warehouse
+
+CREATE OR REPLACE WAREHOUSE my_wh
+WITH WAREHOUSE_SIZE = 'XSMALL'
+AUTO_SUSPEND = 60
+AUTO_RESUME = TRUE;
+
+-- Create a Database and Schema
+
+CREATE OR REPLACE DATABASE my_db;
+CREATE OR REPLACE SCHEMA my_db.my_schema;
+
+-- Create a Custom Role (Optional but cleaner)
+
+CREATE OR REPLACE ROLE my_role;
+GRANT USAGE ON WAREHOUSE my_wh TO ROLE my_role;
+GRANT USAGE ON DATABASE my_db TO ROLE my_role;
+GRANT USAGE ON SCHEMA my_db.my_schema TO ROLE my_role;
+GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA my_db.my_schema TO ROLE my_role;
+GRANT ROLE my_role TO USER <your_user_name>;
+
+-- Find <your_user_name> by running
+
+SELECT CURRENT_USER();
+
+-- Find role, region, account by running
+
+SELECT CURRENT_USER(), CURRENT_ROLE(), CURRENT_REGION(), CURRENT_ACCOUNT();
+
+-- Verify warehouse is active
+
+SHOW WAREHOUSES;
+
+-- Resume warehouse
+
+ALTER WAREHOUSE COMPUTE_WH RESUME;
+
+-- Rename warehouse 
+
+ALTER WAREHOUSE COMPUTE_WH RENAME TO compute_wh;
+
+-- Grant Access
+
+GRANT USAGE ON WAREHOUSE COMPUTE_WH TO ROLE SYSADMIN;
+
+-- Use accountadmin role
+
+USE ROLE ACCOUNTADMIN;
+
+-- Check databases
+
+SHOW DATABASES;
+
+-- Create (or replace) the database
+
+CREATE OR REPLACE DATABASE my_db;
+CREATE OR REPLACE SCHEMA my_schema;
+GRANT USAGE ON DATABASE my_db TO ROLE SYSADMIN;
+GRANT USAGE ON SCHEMA my_db.my_schema TO ROLE SYSADMIN;
+
+-- Get dabase and schema
+
+SELECT CURRENT_DATABASE(), CURRENT_SCHEMA();
+
+--Show schema in database
+
+SHOW SCHEMAS IN DATABASE MY_DB;
+
+-- Recreate cleanly without quotes
+
+DROP DATABASE IF EXISTS "my_db";
+CREATE OR REPLACE DATABASE MY_DB;
+USE DATABASE MY_DB;
+
+CREATE OR REPLACE SCHEMA MY_SCHEMA;
+USE SCHEMA MY_SCHEMA;
+
+GRANT USAGE ON DATABASE MY_DB TO ROLE SYSADMIN;
+GRANT USAGE ON SCHEMA MY_DB.MY_SCHEMA TO ROLE SYSADMIN;
+
+-- Grant privileges
+
+GRANT USAGE ON DATABASE MY_DB TO ROLE SYSADMIN;
+GRANT USAGE ON SCHEMA MY_DB.MY_SCHEMA TO ROLE SYSADMIN;
+GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA MY_DB.MY_SCHEMA TO ROLE SYSADMIN;
+
+-- Give SYSADMIN access to the schema
+
+GRANT USAGE ON SCHEMA MY_DB.MY_SCHEMA TO ROLE SYSADMIN;
+
+-- Allow creating or replacing tables (which is what save_as_table does)
+
+GRANT CREATE TABLE ON SCHEMA MY_DB.MY_SCHEMA TO ROLE SYSADMIN;
+
+-- (Optional) allow all actions on all tables (for future work)
+
+GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA MY_DB.MY_SCHEMA TO ROLE SYSADMIN;

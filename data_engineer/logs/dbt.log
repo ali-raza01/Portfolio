@@ -1,0 +1,78 @@
+[0m23:59:25.001956 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002567A746630>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002567A745E50>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002567A623D70>]}
+
+
+============================== 23:59:25.022259 | 21e921db-d1a2-447a-abfb-357570d57dfa ==============================
+[0m23:59:25.022259 [info ] [MainThread]: Running with dbt=1.10.2
+[0m23:59:25.024281 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'version_check': 'True', 'fail_fast': 'False', 'log_path': 'logs', 'debug': 'False', 'profiles_dir': 'C:\\Users\\amnaj\\.dbt', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'None', 'quiet': 'False', 'no_print': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'invocation_command': 'dbt init sql_examples', 'static_parser': 'True', 'log_format': 'default', 'target_path': 'None', 'introspect': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m23:59:25.098424 [info ] [MainThread]: Creating dbt configuration folder at C:\Users\amnaj\.dbt
+[0m23:59:25.102246 [info ] [MainThread]: A project called sql_examples already exists here.
+[0m23:59:25.105429 [debug] [MainThread]: Command `dbt init` succeeded at 23:59:25.104399 after 0.34 seconds
+[0m23:59:25.105970 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002567D2394C0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002567C43E3C0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002567C43C200>]}
+[0m23:59:25.105970 [debug] [MainThread]: Flushing usage events
+[0m23:59:26.511166 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m23:59:56.043903 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B3DC7D89E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B3D9B749B0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B3DC83AB10>]}
+
+
+============================== 23:59:56.053715 | e7df11f7-f172-4360-9ec8-55ebc434fc35 ==============================
+[0m23:59:56.053715 [info ] [MainThread]: Running with dbt=1.10.2
+[0m23:59:56.056242 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': 'C:\\Users\\amnaj\\.dbt', 'version_check': 'True', 'warn_error': 'None', 'log_path': 'logs', 'fail_fast': 'False', 'debug': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'None', 'quiet': 'False', 'no_print': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'introspect': 'True', 'log_format': 'default', 'static_parser': 'True', 'target_path': 'None', 'invocation_command': 'dbt init', 'send_anonymous_usage_stats': 'True'}
+[0m00:00:25.535190 [info ] [MainThread]: A project called sql_examples already exists here.
+[0m00:00:25.538860 [debug] [MainThread]: Command `dbt init` succeeded at 00:00:25.538860 after 29.69 seconds
+[0m00:00:25.541017 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B3DC7D89E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B3DC80BA10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B3DA0BBC20>]}
+[0m00:00:25.542260 [debug] [MainThread]: Flushing usage events
+[0m00:00:34.727120 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m00:04:22.428400 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002087C2F2B70>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002087C2F0B90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002087BD516A0>]}
+
+
+============================== 00:04:22.437660 | b63e5b27-b36b-4ed6-9aa4-c23dc4dfe515 ==============================
+[0m00:04:22.437660 [info ] [MainThread]: Running with dbt=1.10.2
+[0m00:04:22.438655 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'debug': 'False', 'fail_fast': 'False', 'log_path': 'logs', 'version_check': 'True', 'profiles_dir': 'C:\\Users\\amnaj\\.dbt', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'None', 'quiet': 'False', 'no_print': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'invocation_command': 'dbt init sql_examples', 'log_format': 'default', 'introspect': 'True', 'target_path': 'None', 'static_parser': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m00:04:22.492106 [info ] [MainThread]: A project called sql_examples already exists here.
+[0m00:04:22.493525 [debug] [MainThread]: Command `dbt init` succeeded at 00:04:22.493525 after 0.39 seconds
+[0m00:04:22.494811 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002087D16C350>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002087E4E74D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002087E4E6660>]}
+[0m00:04:22.494811 [debug] [MainThread]: Flushing usage events
+[0m00:04:23.853978 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m00:04:50.894559 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001688D214A40>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001688D215580>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001688D216BA0>]}
+
+
+============================== 00:04:50.907304 | a2927476-45e4-4603-9bf1-dc7bf64bbc2d ==============================
+[0m00:04:50.907304 [info ] [MainThread]: Running with dbt=1.10.2
+[0m00:04:50.909817 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'debug': 'False', 'profiles_dir': 'C:\\Users\\amnaj\\.dbt', 'log_path': 'logs', 'fail_fast': 'False', 'version_check': 'True', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'None', 'quiet': 'False', 'no_print': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'introspect': 'True', 'invocation_command': 'dbt init sql_examples', 'log_format': 'default', 'target_path': 'None', 'static_parser': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m00:04:50.980901 [debug] [MainThread]: Starter project path: E:\Portfolio\data_engineer\venv\Lib\site-packages\dbt\include\starter_project
+[0m00:04:51.029794 [info ] [MainThread]: 
+Your new dbt project "sql_examples" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m00:04:51.030816 [info ] [MainThread]: Setting up your profile.
+[0m00:07:08.512895 [info ] [MainThread]: Profile sql_examples written to C:\Users\amnaj\.dbt\profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m00:07:08.517496 [debug] [MainThread]: Command `dbt init` succeeded at 00:07:08.517496 after 137.84 seconds
+[0m00:07:08.519495 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001688FDDBA70>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001688F8DD1C0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001688DE8B020>]}
+[0m00:07:08.521007 [debug] [MainThread]: Flushing usage events
+[0m00:07:10.698060 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m00:08:59.300717 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001DC2B748800>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001DC2B74AB70>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001DC2B74B290>]}
+
+
+============================== 00:08:59.308385 | 6487b539-e738-4a06-a369-468cd10888d6 ==============================
+[0m00:08:59.308385 [info ] [MainThread]: Running with dbt=1.10.2
+[0m00:08:59.310938 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': 'C:\\Users\\amnaj\\.dbt', 'version_check': 'True', 'fail_fast': 'False', 'log_path': 'logs', 'debug': 'False', 'warn_error': 'None', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'empty': 'False', 'log_format': 'default', 'introspect': 'True', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'static_parser': 'True', 'target_path': 'None', 'invocation_command': 'dbt run', 'send_anonymous_usage_stats': 'True'}
+[0m00:08:59.312069 [error] [MainThread]: Encountered an error:
+Runtime Error
+  No dbt_project.yml found at expected path E:\Portfolio\data_engineer\dbt_project.yml
+  Verify that each entry within packages.yml (and their transitive dependencies) contains a file named dbt_project.yml
+  
+[0m00:08:59.314643 [debug] [MainThread]: Command `dbt run` failed at 00:08:59.314643 after 0.35 seconds
+[0m00:08:59.315644 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001DC27BFDE20>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001DC29560710>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001DC2BD7AA80>]}
+[0m00:08:59.316643 [debug] [MainThread]: Flushing usage events
+[0m00:09:00.824929 [debug] [MainThread]: An error was encountered while trying to flush usage events

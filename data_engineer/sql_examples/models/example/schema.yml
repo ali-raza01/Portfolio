@@ -1,0 +1,24 @@
+
+version: 2
+
+models:
+  - name: my_first_dbt_model
+    description: "Cleaned weather data"
+    columns:
+      - name: city
+        description: "City name"
+        tests:
+          - unique
+          - not_null
+
+  - name: weather_data_model
+    description: "Weather data pulled from OpenWeather API"
+    columns:
+      - name: CITY
+        description: "City name"
+        tests:
+          - not_null
+      - name: TEMP_C
+        description: "Temperature in Celsius"
+        tests:
+          - not_null

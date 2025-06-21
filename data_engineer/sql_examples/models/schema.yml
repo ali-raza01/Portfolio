@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: MY_SCHEMA
+    database: MY_DB
+    schema: MY_SCHEMA
+    tables:
+      - name: WEATHER_DATA
+
+
