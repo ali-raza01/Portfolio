@@ -1,0 +1,149 @@
+2025-06-29 20:09:29,771 - INFO - 🔄 Attempt 1: filters ➜ {'Country Name': 'Nigeria', 'Funding Agency Name': 'UNICEF', 'US Sector Name': 'Health', 'Fiscal Year': [2015, 2022]}
+2025-06-29 20:09:29,772 - INFO - ❗ Current filters used in URL build: {'Country Name': 'Nigeria', 'Funding Agency Name': 'UNICEF', 'US Sector Name': 'Health', 'Fiscal Year': [2015, 2022]}
+2025-06-29 20:09:29,773 - INFO - 🌐 Loading filtered URL:
+https://foreignassistance-data.andrewheiss.com/2025-02-03_foreign-assistance?sql=select%20%2A%20from%20%5B./us_foreign_aid_complete%5D%20WHERE%20%22Country%20Name%22%20LIKE%20%27%25Nigeria%25%27%20AND%20%22Funding%20Agency%20Name%22%20LIKE%20%27%25UNICEF%25%27%20AND%20%22US%20Sector%20Name%22%20LIKE%20%27%25Health%25%27%20AND%20%22Fiscal%20Year%22%20IN%20%28%272015%27%2C%272022%27%29
+2025-06-29 20:09:37,032 - ERROR - 🛑 SQL query was interrupted by the server – try removing some filters or selecting fewer fiscal years.
+2025-06-29 20:09:37,033 - INFO - 🔄 Attempt 2: filters ➜ {'Country Name': 'Nigeria', 'US Sector Name': 'Health', 'Fiscal Year': [2015, 2022]}
+2025-06-29 20:09:37,033 - INFO - ❗ Current filters used in URL build: {'Country Name': 'Nigeria', 'US Sector Name': 'Health', 'Fiscal Year': [2015, 2022]}
+2025-06-29 20:09:37,034 - INFO - 🌐 Loading filtered URL:
+https://foreignassistance-data.andrewheiss.com/2025-02-03_foreign-assistance?sql=select%20%2A%20from%20%5B./us_foreign_aid_complete%5D%20WHERE%20%22Country%20Name%22%20LIKE%20%27%25Nigeria%25%27%20AND%20%22US%20Sector%20Name%22%20LIKE%20%27%25Health%25%27%20AND%20%22Fiscal%20Year%22%20IN%20%28%272015%27%2C%272022%27%29
+2025-06-29 20:09:43,514 - ERROR - 🛑 SQL query was interrupted by the server – try removing some filters or selecting fewer fiscal years.
+2025-06-29 20:09:43,515 - INFO - 🔄 Attempt 3: filters ➜ {'Country Name': 'Nigeria', 'US Sector Name': 'Health'}
+2025-06-29 20:09:43,516 - INFO - ❗ Current filters used in URL build: {'Country Name': 'Nigeria', 'US Sector Name': 'Health'}
+2025-06-29 20:09:43,516 - INFO - 🌐 Loading filtered URL:
+https://foreignassistance-data.andrewheiss.com/2025-02-03_foreign-assistance?sql=select%20%2A%20from%20%5B./us_foreign_aid_complete%5D%20WHERE%20%22Country%20Name%22%20LIKE%20%27%25Nigeria%25%27%20AND%20%22US%20Sector%20Name%22%20LIKE%20%27%25Health%25%27
+2025-06-29 20:09:50,951 - ERROR - 🛑 SQL query was interrupted by the server – try removing some filters or selecting fewer fiscal years.
+2025-06-29 20:09:50,952 - INFO - 🔄 Attempt 4: filters ➜ {'Country Name': 'Nigeria'}
+2025-06-29 20:09:50,953 - INFO - ❗ Current filters used in URL build: {'Country Name': 'Nigeria'}
+2025-06-29 20:09:50,954 - INFO - 🌐 Loading filtered URL:
+https://foreignassistance-data.andrewheiss.com/2025-02-03_foreign-assistance?sql=select%20%2A%20from%20%5B./us_foreign_aid_complete%5D%20WHERE%20%22Country%20Name%22%20LIKE%20%27%25Nigeria%25%27
+2025-06-29 20:09:56,840 - ERROR - 🛑 SQL query was interrupted by the server – try removing some filters or selecting fewer fiscal years.
+2025-06-29 20:09:56,841 - INFO - 🧭 Switch to the new tab
+2025-06-29 20:09:58,864 - INFO - 📄 Extract CSV text content
+2025-06-29 20:09:58,909 - ERROR - ❌ Selenium error: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/pre"}
+  (Session info: chrome=138.0.7204.49); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+2025-06-29 20:10:01,232 - INFO - 🧹 Browser closed
+2025-06-30 15:14:10,836 - INFO - 🔄 Attempt 1: filters ➜ {'Country Name': 'Afghanistan', 'Funding Agency Name': 'UNICEF', 'US Sector Name': 'Health', 'Fiscal Year': [2015, 2022]}
+2025-06-30 15:14:10,837 - INFO - ❗ Current filters used in URL build: {'Country Name': 'Afghanistan', 'Funding Agency Name': 'UNICEF', 'US Sector Name': 'Health', 'Fiscal Year': [2015, 2022]}
+2025-06-30 15:14:10,838 - INFO - 🌐 Loading filtered URL:
+https://foreignassistance-data.andrewheiss.com/2025-02-03_foreign-assistance?sql=select%20%2A%20from%20%5B./us_foreign_aid_complete%5D%20WHERE%20%22Country%20Name%22%20LIKE%20%27%25Afghanistan%25%27%20AND%20%22Funding%20Agency%20Name%22%20LIKE%20%27%25UNICEF%25%27%20AND%20%22US%20Sector%20Name%22%20LIKE%20%27%25Health%25%27%20AND%20%22Fiscal%20Year%22%20IN%20%28%272015%27%2C%272022%27%29
+2025-06-30 15:14:17,450 - ERROR - 🛑 SQL query was interrupted by the server – try removing some filters or selecting fewer fiscal years.
+2025-06-30 15:14:17,451 - INFO - 🔄 Attempt 2: filters ➜ {'Country Name': 'Afghanistan', 'US Sector Name': 'Health', 'Fiscal Year': [2015, 2022]}
+2025-06-30 15:14:17,452 - INFO - ❗ Current filters used in URL build: {'Country Name': 'Afghanistan', 'US Sector Name': 'Health', 'Fiscal Year': [2015, 2022]}
+2025-06-30 15:14:17,452 - INFO - 🌐 Loading filtered URL:
+https://foreignassistance-data.andrewheiss.com/2025-02-03_foreign-assistance?sql=select%20%2A%20from%20%5B./us_foreign_aid_complete%5D%20WHERE%20%22Country%20Name%22%20LIKE%20%27%25Afghanistan%25%27%20AND%20%22US%20Sector%20Name%22%20LIKE%20%27%25Health%25%27%20AND%20%22Fiscal%20Year%22%20IN%20%28%272015%27%2C%272022%27%29
+2025-06-30 15:14:23,643 - ERROR - 🛑 SQL query was interrupted by the server – try removing some filters or selecting fewer fiscal years.
+2025-06-30 15:14:23,645 - INFO - 🔄 Attempt 3: filters ➜ {'Country Name': 'Afghanistan', 'US Sector Name': 'Health'}
+2025-06-30 15:14:23,646 - INFO - ❗ Current filters used in URL build: {'Country Name': 'Afghanistan', 'US Sector Name': 'Health'}
+2025-06-30 15:14:23,648 - INFO - 🌐 Loading filtered URL:
+https://foreignassistance-data.andrewheiss.com/2025-02-03_foreign-assistance?sql=select%20%2A%20from%20%5B./us_foreign_aid_complete%5D%20WHERE%20%22Country%20Name%22%20LIKE%20%27%25Afghanistan%25%27%20AND%20%22US%20Sector%20Name%22%20LIKE%20%27%25Health%25%27
+2025-06-30 15:14:41,812 - INFO - 🖱️ Click the CSV link at specified XPath
+2025-06-30 15:14:47,089 - INFO - 🧭 Switch to the new tab
+2025-06-30 15:14:49,100 - INFO - 📄 Extract CSV text content
+2025-06-30 15:14:49,553 - INFO - 🔍 Check if filter already exists in archive
+2025-06-30 15:14:49,554 - INFO - 🔽 Save CSV data
+2025-06-30 15:14:49,559 - INFO - ✅ Saved CSV to: foreign_assistance_downloads\Country Name-Afghanistan_US Sector Name-Health_20250630_151449.csv
+2025-06-30 15:14:49,560 - INFO - 🔽 Check if file already exists in archive
+2025-06-30 15:14:49,561 - ERROR - ❌ All attempts failed even after removing filters.
+2025-06-30 15:14:52,661 - INFO - 🧹 Browser closed
+2025-06-30 15:21:37,539 - INFO - 🔄 Attempt 1: filters ➜ {'Country Name': 'Afghanistan', 'Funding Agency Name': 'UNICEF', 'US Sector Name': 'Health', 'Fiscal Year': [2015, 2022]}
+2025-06-30 15:21:37,541 - INFO - ❗ Current filters used in URL build: {'Country Name': 'Afghanistan', 'Funding Agency Name': 'UNICEF', 'US Sector Name': 'Health', 'Fiscal Year': [2015, 2022]}
+2025-06-30 15:21:37,542 - INFO - 🌐 Loading filtered URL:
+https://foreignassistance-data.andrewheiss.com/2025-02-03_foreign-assistance?sql=select%20%2A%20from%20%5B./us_foreign_aid_complete%5D%20WHERE%20%22Country%20Name%22%20LIKE%20%27%25Afghanistan%25%27%20AND%20%22Funding%20Agency%20Name%22%20LIKE%20%27%25UNICEF%25%27%20AND%20%22US%20Sector%20Name%22%20LIKE%20%27%25Health%25%27%20AND%20%22Fiscal%20Year%22%20IN%20%28%272015%27%2C%272022%27%29
+2025-06-30 15:21:44,001 - ERROR - 🛑 SQL query was interrupted by the server – try removing some filters or selecting fewer fiscal years.
+2025-06-30 15:21:44,002 - INFO - 🔄 Attempt 2: filters ➜ {'Country Name': 'Afghanistan', 'US Sector Name': 'Health', 'Fiscal Year': [2015, 2022]}
+2025-06-30 15:21:44,002 - INFO - ❗ Current filters used in URL build: {'Country Name': 'Afghanistan', 'US Sector Name': 'Health', 'Fiscal Year': [2015, 2022]}
+2025-06-30 15:21:44,003 - INFO - 🌐 Loading filtered URL:
+https://foreignassistance-data.andrewheiss.com/2025-02-03_foreign-assistance?sql=select%20%2A%20from%20%5B./us_foreign_aid_complete%5D%20WHERE%20%22Country%20Name%22%20LIKE%20%27%25Afghanistan%25%27%20AND%20%22US%20Sector%20Name%22%20LIKE%20%27%25Health%25%27%20AND%20%22Fiscal%20Year%22%20IN%20%28%272015%27%2C%272022%27%29
+2025-06-30 15:21:50,177 - ERROR - 🛑 SQL query was interrupted by the server – try removing some filters or selecting fewer fiscal years.
+2025-06-30 15:21:50,178 - INFO - 🔄 Attempt 3: filters ➜ {'Country Name': 'Afghanistan', 'US Sector Name': 'Health'}
+2025-06-30 15:21:50,179 - INFO - ❗ Current filters used in URL build: {'Country Name': 'Afghanistan', 'US Sector Name': 'Health'}
+2025-06-30 15:21:50,179 - INFO - 🌐 Loading filtered URL:
+https://foreignassistance-data.andrewheiss.com/2025-02-03_foreign-assistance?sql=select%20%2A%20from%20%5B./us_foreign_aid_complete%5D%20WHERE%20%22Country%20Name%22%20LIKE%20%27%25Afghanistan%25%27%20AND%20%22US%20Sector%20Name%22%20LIKE%20%27%25Health%25%27
+2025-06-30 15:22:08,494 - INFO - 🧹 Browser closed
+2025-06-30 15:27:32,027 - INFO - 🔄 Attempt 1: filters ➜ {'Country Name': 'Afghanistan', 'Funding Agency Name': 'UNICEF', 'US Sector Name': 'Health', 'Fiscal Year': [2015, 2022]}
+2025-06-30 15:27:32,028 - INFO - ❗ Current filters used in URL build: {'Country Name': 'Afghanistan', 'Funding Agency Name': 'UNICEF', 'US Sector Name': 'Health', 'Fiscal Year': [2015, 2022]}
+2025-06-30 15:27:32,028 - INFO - 🌐 Loading filtered URL:
+https://foreignassistance-data.andrewheiss.com/2025-02-03_foreign-assistance?sql=select%20%2A%20from%20%5B./us_foreign_aid_complete%5D%20WHERE%20%22Country%20Name%22%20LIKE%20%27%25Afghanistan%25%27%20AND%20%22Funding%20Agency%20Name%22%20LIKE%20%27%25UNICEF%25%27%20AND%20%22US%20Sector%20Name%22%20LIKE%20%27%25Health%25%27%20AND%20%22Fiscal%20Year%22%20IN%20%28%272015%27%2C%272022%27%29
+2025-06-30 15:27:38,531 - ERROR - 🛑 SQL query was interrupted by the server – try removing some filters or selecting fewer fiscal years.
+2025-06-30 15:27:38,532 - INFO - 🔄 Attempt 2: filters ➜ {'Country Name': 'Afghanistan', 'US Sector Name': 'Health', 'Fiscal Year': [2015, 2022]}
+2025-06-30 15:27:38,533 - INFO - ❗ Current filters used in URL build: {'Country Name': 'Afghanistan', 'US Sector Name': 'Health', 'Fiscal Year': [2015, 2022]}
+2025-06-30 15:27:38,534 - INFO - 🌐 Loading filtered URL:
+https://foreignassistance-data.andrewheiss.com/2025-02-03_foreign-assistance?sql=select%20%2A%20from%20%5B./us_foreign_aid_complete%5D%20WHERE%20%22Country%20Name%22%20LIKE%20%27%25Afghanistan%25%27%20AND%20%22US%20Sector%20Name%22%20LIKE%20%27%25Health%25%27%20AND%20%22Fiscal%20Year%22%20IN%20%28%272015%27%2C%272022%27%29
+2025-06-30 15:27:44,811 - ERROR - 🛑 SQL query was interrupted by the server – try removing some filters or selecting fewer fiscal years.
+2025-06-30 15:27:44,812 - INFO - 🔄 Attempt 3: filters ➜ {'Country Name': 'Afghanistan', 'US Sector Name': 'Health'}
+2025-06-30 15:27:44,813 - INFO - ❗ Current filters used in URL build: {'Country Name': 'Afghanistan', 'US Sector Name': 'Health'}
+2025-06-30 15:27:44,815 - INFO - 🌐 Loading filtered URL:
+https://foreignassistance-data.andrewheiss.com/2025-02-03_foreign-assistance?sql=select%20%2A%20from%20%5B./us_foreign_aid_complete%5D%20WHERE%20%22Country%20Name%22%20LIKE%20%27%25Afghanistan%25%27%20AND%20%22US%20Sector%20Name%22%20LIKE%20%27%25Health%25%27
+2025-06-30 15:27:57,495 - INFO - 🖱️ Click the CSV link at specified XPath
+2025-06-30 15:28:01,733 - INFO - 🧭 Switch to the new tab
+2025-06-30 15:28:03,739 - INFO - 📄 Extract CSV text content
+2025-06-30 15:28:04,026 - INFO - 🔍 Check if filter already exists in archive
+2025-06-30 15:28:04,029 - INFO - 🔽 Save CSV data
+2025-06-30 15:28:04,036 - INFO - ✅ Saved CSV to: foreign_assistance_downloads\Country Name-Afghanistan_US Sector Name-Health_20250630_152804.csv
+2025-06-30 15:28:04,037 - INFO - 🔽 Check if file already exists in archive
+2025-06-30 15:28:06,657 - INFO - 🧹 Browser closed
+2025-06-30 17:03:29,434 - INFO - 🔄 Attempt 1: filters ➜ {'Country Name': 'Afghanistan', 'Funding Agency Name': 'UNICEF', 'US Sector Name': 'Health', 'Fiscal Year': [2015, 2022]}
+2025-06-30 17:03:29,437 - INFO - ❗ Current filters used in URL build: {'Country Name': 'Afghanistan', 'Funding Agency Name': 'UNICEF', 'US Sector Name': 'Health', 'Fiscal Year': [2015, 2022]}
+2025-06-30 17:03:29,439 - INFO - 🌐 Loading filtered URL:
+https://foreignassistance-data.andrewheiss.com/2025-02-03_foreign-assistance?sql=select%20%2A%20from%20%5B./us_foreign_aid_complete%5D%20WHERE%20%22Country%20Name%22%20LIKE%20%27%25Afghanistan%25%27%20AND%20%22Funding%20Agency%20Name%22%20LIKE%20%27%25UNICEF%25%27%20AND%20%22US%20Sector%20Name%22%20LIKE%20%27%25Health%25%27%20AND%20%22Fiscal%20Year%22%20IN%20%28%272015%27%2C%272022%27%29
+2025-06-30 17:03:36,587 - ERROR - 🛑 SQL query was interrupted by the server – try removing some filters or selecting fewer fiscal years.
+2025-06-30 17:03:36,588 - INFO - 🔄 Attempt 2: filters ➜ {'Country Name': 'Afghanistan', 'US Sector Name': 'Health', 'Fiscal Year': [2015, 2022]}
+2025-06-30 17:03:36,589 - INFO - ❗ Current filters used in URL build: {'Country Name': 'Afghanistan', 'US Sector Name': 'Health', 'Fiscal Year': [2015, 2022]}
+2025-06-30 17:03:36,589 - INFO - 🌐 Loading filtered URL:
+https://foreignassistance-data.andrewheiss.com/2025-02-03_foreign-assistance?sql=select%20%2A%20from%20%5B./us_foreign_aid_complete%5D%20WHERE%20%22Country%20Name%22%20LIKE%20%27%25Afghanistan%25%27%20AND%20%22US%20Sector%20Name%22%20LIKE%20%27%25Health%25%27%20AND%20%22Fiscal%20Year%22%20IN%20%28%272015%27%2C%272022%27%29
+2025-06-30 17:03:42,791 - ERROR - 🛑 SQL query was interrupted by the server – try removing some filters or selecting fewer fiscal years.
+2025-06-30 17:03:42,792 - INFO - 🔄 Attempt 3: filters ➜ {'Country Name': 'Afghanistan', 'US Sector Name': 'Health'}
+2025-06-30 17:03:42,792 - INFO - ❗ Current filters used in URL build: {'Country Name': 'Afghanistan', 'US Sector Name': 'Health'}
+2025-06-30 17:03:42,793 - INFO - 🌐 Loading filtered URL:
+https://foreignassistance-data.andrewheiss.com/2025-02-03_foreign-assistance?sql=select%20%2A%20from%20%5B./us_foreign_aid_complete%5D%20WHERE%20%22Country%20Name%22%20LIKE%20%27%25Afghanistan%25%27%20AND%20%22US%20Sector%20Name%22%20LIKE%20%27%25Health%25%27
+2025-06-30 17:04:01,225 - INFO - 🖱️ Click the CSV link at specified XPath
+2025-06-30 17:04:05,030 - INFO - 🧭 Switch to the new tab
+2025-06-30 17:04:07,044 - INFO - 📄 Extract CSV text content
+2025-06-30 17:04:07,319 - INFO - 🔍 Check if filter already exists in archive
+2025-06-30 17:04:07,320 - INFO - ⚠️ Filter 'Country Name-Afghanistan_US Sector Name-Health' already downloaded previously (Country Name-Afghanistan_US Sector Name-Health_20250630_152804.csv). Skipping save.
+2025-06-30 17:04:09,914 - INFO - 🧹 Browser closed
+2025-06-30 17:05:02,104 - INFO - 🔄 Attempt 1: filters ➜ {'Country Name': 'Afghanistan', 'Funding Agency Name': 'UNICEF', 'US Sector Name': 'Health', 'Fiscal Year': [2015, 2022]}
+2025-06-30 17:05:02,104 - INFO - ❗ Current filters used in URL build: {'Country Name': 'Afghanistan', 'Funding Agency Name': 'UNICEF', 'US Sector Name': 'Health', 'Fiscal Year': [2015, 2022]}
+2025-06-30 17:05:02,104 - INFO - 🌐 Loading filtered URL:
+https://foreignassistance-data.andrewheiss.com/2025-02-03_foreign-assistance?sql=select%20%2A%20from%20%5B./us_foreign_aid_complete%5D%20WHERE%20%22Country%20Name%22%20LIKE%20%27%25Afghanistan%25%27%20AND%20%22Funding%20Agency%20Name%22%20LIKE%20%27%25UNICEF%25%27%20AND%20%22US%20Sector%20Name%22%20LIKE%20%27%25Health%25%27%20AND%20%22Fiscal%20Year%22%20IN%20%28%272015%27%2C%272022%27%29
+2025-06-30 17:05:08,495 - ERROR - 🛑 SQL query was interrupted by the server – try removing some filters or selecting fewer fiscal years.
+2025-06-30 17:05:08,496 - INFO - 🔄 Attempt 2: filters ➜ {'Country Name': 'Afghanistan', 'US Sector Name': 'Health', 'Fiscal Year': [2015, 2022]}
+2025-06-30 17:05:08,497 - INFO - ❗ Current filters used in URL build: {'Country Name': 'Afghanistan', 'US Sector Name': 'Health', 'Fiscal Year': [2015, 2022]}
+2025-06-30 17:05:08,500 - INFO - 🌐 Loading filtered URL:
+https://foreignassistance-data.andrewheiss.com/2025-02-03_foreign-assistance?sql=select%20%2A%20from%20%5B./us_foreign_aid_complete%5D%20WHERE%20%22Country%20Name%22%20LIKE%20%27%25Afghanistan%25%27%20AND%20%22US%20Sector%20Name%22%20LIKE%20%27%25Health%25%27%20AND%20%22Fiscal%20Year%22%20IN%20%28%272015%27%2C%272022%27%29
+2025-06-30 17:05:14,153 - ERROR - 🛑 SQL query was interrupted by the server – try removing some filters or selecting fewer fiscal years.
+2025-06-30 17:05:14,154 - INFO - 🔄 Attempt 3: filters ➜ {'Country Name': 'Afghanistan', 'US Sector Name': 'Health'}
+2025-06-30 17:05:14,156 - INFO - ❗ Current filters used in URL build: {'Country Name': 'Afghanistan', 'US Sector Name': 'Health'}
+2025-06-30 17:05:14,157 - INFO - 🌐 Loading filtered URL:
+https://foreignassistance-data.andrewheiss.com/2025-02-03_foreign-assistance?sql=select%20%2A%20from%20%5B./us_foreign_aid_complete%5D%20WHERE%20%22Country%20Name%22%20LIKE%20%27%25Afghanistan%25%27%20AND%20%22US%20Sector%20Name%22%20LIKE%20%27%25Health%25%27
+2025-06-30 17:05:30,332 - INFO - 🖱️ Click the CSV link at specified XPath
+2025-06-30 17:05:34,079 - INFO - 🧭 Switch to the new tab
+2025-06-30 17:05:36,094 - INFO - 📄 Extract CSV text content
+2025-06-30 17:05:36,442 - INFO - 🔍 Check if filter already exists in archive
+2025-06-30 17:05:36,443 - INFO - 🔽 Save CSV data
+2025-06-30 17:05:36,451 - INFO - ✅ Saved CSV to: foreign_assistance_downloads\Country Name-Afghanistan_US Sector Name-Health_20250630_170536.csv
+2025-06-30 17:05:36,452 - INFO - 🔽 Check if file already exists in archive
+2025-06-30 17:05:38,678 - INFO - 🧹 Browser closed
+2025-06-30 17:12:19,816 - INFO - 🔄 Attempt 1: filters ➜ {'Country Name': 'Afghanistan', 'Funding Agency Name': 'UNICEF', 'US Sector Name': 'Health', 'Fiscal Year': [2015, 2022]}
+2025-06-30 17:12:19,817 - INFO - ❗ Current filters used in URL build: {'Country Name': 'Afghanistan', 'Funding Agency Name': 'UNICEF', 'US Sector Name': 'Health', 'Fiscal Year': [2015, 2022]}
+2025-06-30 17:12:19,817 - INFO - 🌐 Loading filtered URL:
+https://foreignassistance-data.andrewheiss.com/2025-02-03_foreign-assistance?sql=select%20%2A%20from%20%5B./us_foreign_aid_complete%5D%20WHERE%20%22Country%20Name%22%20LIKE%20%27%25Afghanistan%25%27%20AND%20%22Funding%20Agency%20Name%22%20LIKE%20%27%25UNICEF%25%27%20AND%20%22US%20Sector%20Name%22%20LIKE%20%27%25Health%25%27%20AND%20%22Fiscal%20Year%22%20IN%20%28%272015%27%2C%272022%27%29
+2025-06-30 17:12:26,216 - ERROR - 🛑 SQL query was interrupted by the server – try removing some filters or selecting fewer fiscal years.
+2025-06-30 17:12:26,216 - INFO - 🔄 Attempt 2: filters ➜ {'Country Name': 'Afghanistan', 'US Sector Name': 'Health', 'Fiscal Year': [2015, 2022]}
+2025-06-30 17:12:26,217 - INFO - ❗ Current filters used in URL build: {'Country Name': 'Afghanistan', 'US Sector Name': 'Health', 'Fiscal Year': [2015, 2022]}
+2025-06-30 17:12:26,217 - INFO - 🌐 Loading filtered URL:
+https://foreignassistance-data.andrewheiss.com/2025-02-03_foreign-assistance?sql=select%20%2A%20from%20%5B./us_foreign_aid_complete%5D%20WHERE%20%22Country%20Name%22%20LIKE%20%27%25Afghanistan%25%27%20AND%20%22US%20Sector%20Name%22%20LIKE%20%27%25Health%25%27%20AND%20%22Fiscal%20Year%22%20IN%20%28%272015%27%2C%272022%27%29
+2025-06-30 17:12:32,581 - ERROR - 🛑 SQL query was interrupted by the server – try removing some filters or selecting fewer fiscal years.
+2025-06-30 17:12:32,582 - INFO - 🔄 Attempt 3: filters ➜ {'Country Name': 'Afghanistan', 'US Sector Name': 'Health'}
+2025-06-30 17:12:32,584 - INFO - ❗ Current filters used in URL build: {'Country Name': 'Afghanistan', 'US Sector Name': 'Health'}
+2025-06-30 17:12:32,585 - INFO - 🌐 Loading filtered URL:
+https://foreignassistance-data.andrewheiss.com/2025-02-03_foreign-assistance?sql=select%20%2A%20from%20%5B./us_foreign_aid_complete%5D%20WHERE%20%22Country%20Name%22%20LIKE%20%27%25Afghanistan%25%27%20AND%20%22US%20Sector%20Name%22%20LIKE%20%27%25Health%25%27
+2025-06-30 17:12:45,743 - INFO - 🖱️ Click the CSV link at specified XPath
+2025-06-30 17:12:49,877 - INFO - 🧭 Switch to the new tab
+2025-06-30 17:12:51,887 - INFO - 📄 Extract CSV text content
+2025-06-30 17:12:52,146 - INFO - 🔍 Check if filter already exists in archive
+2025-06-30 17:12:52,148 - INFO - 🔽 Save CSV data
+2025-06-30 17:12:52,156 - INFO - ✅ Saved CSV to: foreign_assistance_downloads\Country Name-Afghanistan_US Sector Name-Health_20250630_171252.csv
+2025-06-30 17:12:52,158 - INFO - 🔽 Check if file already exists in archive
+2025-06-30 17:12:55,842 - INFO - 🧹 Browser closed

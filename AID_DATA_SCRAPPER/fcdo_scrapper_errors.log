@@ -1,0 +1,246 @@
+2025-06-29 20:11:25,817 - INFO - 🔄 Opening FCDO DevTracker...
+2025-06-29 20:11:55,083 - INFO - ✅ No cookie prompt.
+2025-06-29 20:11:55,084 - INFO - ⏬ Expanding filter sections...
+2025-06-29 20:12:00,626 - INFO - 🔍 Applying filter: country = Nigeria
+2025-06-29 20:12:21,250 - INFO - ☑️ Selected checkbox: Nigeria
+2025-06-29 20:12:22,251 - INFO - 🔍 Applying filter: reporting_org = UNICEF
+2025-06-29 20:13:02,727 - WARNING - ⚠️ Checkbox not found for 'reporting_org' = 'UNICEF', trying fallback text input...
+2025-06-29 20:13:23,120 - WARNING - ❌ Could not apply filter 'reporting_org' with fallback either: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x1024493+62419]
+	GetHandleVerifier [0x0x10244d4+62484]
+	(No symbol) [0x0xe62133]
+	(No symbol) [0x0xeaa8fe]
+	(No symbol) [0x0xeaac9b]
+	(No symbol) [0x0xef3052]
+	(No symbol) [0x0xecf4b4]
+	(No symbol) [0x0xef087a]
+	(No symbol) [0x0xecf266]
+	(No symbol) [0x0xe9e852]
+	(No symbol) [0x0xe9f6f4]
+	GetHandleVerifier [0x0x1294773+2619059]
+	GetHandleVerifier [0x0x128fb8a+2599626]
+	GetHandleVerifier [0x0x104b03a+221050]
+	GetHandleVerifier [0x0x103b2b8+156152]
+	GetHandleVerifier [0x0x1041c6d+183213]
+	GetHandleVerifier [0x0x102c378+94904]
+	GetHandleVerifier [0x0x102c502+95298]
+	GetHandleVerifier [0x0x101765a+9626]
+	BaseThreadInitThunk [0x0x76947ba9+25]
+	RtlInitializeExceptionChain [0x0x76f3c0cb+107]
+	RtlClearBits [0x0x76f3c04f+191]
+
+2025-06-29 20:13:23,127 - INFO - 🔍 Applying filter: sector = Health
+2025-06-29 20:13:43,647 - INFO - ☑️ Selected checkbox: Health
+2025-06-29 20:13:44,648 - INFO - 🔍 Applying filter: start_year = 2015
+2025-06-29 20:14:25,204 - WARNING - ⚠️ Checkbox not found for 'start_year' = '2015', trying fallback text input...
+2025-06-29 20:14:45,574 - WARNING - ❌ Could not apply filter 'start_year' with fallback either: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x1024493+62419]
+	GetHandleVerifier [0x0x10244d4+62484]
+	(No symbol) [0x0xe62133]
+	(No symbol) [0x0xeaa8fe]
+	(No symbol) [0x0xeaac9b]
+	(No symbol) [0x0xef3052]
+	(No symbol) [0x0xecf4b4]
+	(No symbol) [0x0xef087a]
+	(No symbol) [0x0xecf266]
+	(No symbol) [0x0xe9e852]
+	(No symbol) [0x0xe9f6f4]
+	GetHandleVerifier [0x0x1294773+2619059]
+	GetHandleVerifier [0x0x128fb8a+2599626]
+	GetHandleVerifier [0x0x104b03a+221050]
+	GetHandleVerifier [0x0x103b2b8+156152]
+	GetHandleVerifier [0x0x1041c6d+183213]
+	GetHandleVerifier [0x0x102c378+94904]
+	GetHandleVerifier [0x0x102c502+95298]
+	GetHandleVerifier [0x0x101765a+9626]
+	BaseThreadInitThunk [0x0x76947ba9+25]
+	RtlInitializeExceptionChain [0x0x76f3c0cb+107]
+	RtlClearBits [0x0x76f3c04f+191]
+
+2025-06-29 20:14:45,576 - INFO - 🔍 Applying filter: end_year = 2022
+2025-06-29 20:15:26,297 - WARNING - ⚠️ Checkbox not found for 'end_year' = '2022', trying fallback text input...
+2025-06-29 20:15:46,718 - WARNING - ❌ Could not apply filter 'end_year' with fallback either: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x1024493+62419]
+	GetHandleVerifier [0x0x10244d4+62484]
+	(No symbol) [0x0xe62133]
+	(No symbol) [0x0xeaa8fe]
+	(No symbol) [0x0xeaac9b]
+	(No symbol) [0x0xef3052]
+	(No symbol) [0x0xecf4b4]
+	(No symbol) [0x0xef087a]
+	(No symbol) [0x0xecf266]
+	(No symbol) [0x0xe9e852]
+	(No symbol) [0x0xe9f6f4]
+	GetHandleVerifier [0x0x1294773+2619059]
+	GetHandleVerifier [0x0x128fb8a+2599626]
+	GetHandleVerifier [0x0x104b03a+221050]
+	GetHandleVerifier [0x0x103b2b8+156152]
+	GetHandleVerifier [0x0x1041c6d+183213]
+	GetHandleVerifier [0x0x102c378+94904]
+	GetHandleVerifier [0x0x102c502+95298]
+	GetHandleVerifier [0x0x101765a+9626]
+	BaseThreadInitThunk [0x0x76947ba9+25]
+	RtlInitializeExceptionChain [0x0x76f3c0cb+107]
+	RtlClearBits [0x0x76f3c04f+191]
+
+2025-06-29 20:15:46,735 - INFO - ✅ Filtered projects loaded.
+2025-06-29 20:15:46,736 - INFO - 📄 Scraping page 1...
+2025-06-29 20:15:46,830 - INFO - 🔗 Visiting project: https://devtracker.fcdo.gov.uk/projects/GB-GOV-1-300495/summary
+2025-06-29 20:17:12,333 - ERROR - ❌ FCDO Scraper error:
+2025-06-29 20:17:12,360 - ERROR - Traceback (most recent call last):
+  File "E:\Portfolio\code_ver7\scrappers\fcdo_scrapper.py", line 156, in run_fcdo_scraper
+    driver.get(url)
+    ~~~~~~~~~~^^^^^
+  File "E:\Users\amnaj\miniconda3\envs\web_scrapper\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 472, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Users\amnaj\miniconda3\envs\web_scrapper\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 447, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\Users\amnaj\miniconda3\envs\web_scrapper\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=138.0.7204.49)
+Stacktrace:
+	GetHandleVerifier [0x0x1024493+62419]
+	GetHandleVerifier [0x0x10244d4+62484]
+	(No symbol) [0x0xe62133]
+	(No symbol) [0x0xe5f860]
+	(No symbol) [0x0xe530e2]
+	(No symbol) [0x0xe54b18]
+	(No symbol) [0x0xe53378]
+	(No symbol) [0x0xe52eb3]
+	(No symbol) [0x0xe52bc1]
+	(No symbol) [0x0xe50b64]
+	(No symbol) [0x0xe5150b]
+	(No symbol) [0x0xe65b5e]
+	(No symbol) [0x0xef1447]
+	(No symbol) [0x0xecf46c]
+	(No symbol) [0x0xef087a]
+	(No symbol) [0x0xecf266]
+	(No symbol) [0x0xe9e852]
+	(No symbol) [0x0xe9f6f4]
+	GetHandleVerifier [0x0x1294773+2619059]
+	GetHandleVerifier [0x0x128fb8a+2599626]
+	GetHandleVerifier [0x0x104b03a+221050]
+	GetHandleVerifier [0x0x103b2b8+156152]
+	GetHandleVerifier [0x0x1041c6d+183213]
+	GetHandleVerifier [0x0x102c378+94904]
+	GetHandleVerifier [0x0x102c502+95298]
+	GetHandleVerifier [0x0x101765a+9626]
+	BaseThreadInitThunk [0x0x76947ba9+25]
+	RtlInitializeExceptionChain [0x0x76f3c0cb+107]
+	RtlClearBits [0x0x76f3c04f+191]
+
+
+2025-06-29 20:17:12,623 - INFO - 🖼 Screenshot saved as fcdo_debug.png
+2025-06-29 20:44:17,020 - INFO - 🔄 Opening FCDO DevTracker...
+2025-06-29 20:44:41,958 - INFO - ✅ No cookie prompt.
+2025-06-29 20:44:41,959 - INFO - ⏬ Expanding filter sections...
+2025-06-29 20:44:47,529 - INFO - 🔍 Applying filter: country = Nigeria
+2025-06-29 20:45:08,285 - INFO - ☑️ Selected checkbox: Nigeria
+2025-06-29 20:45:09,286 - INFO - 🔍 Applying filter: reporting_org = UNICEF
+2025-06-29 20:45:50,297 - WARNING - ⚠️ Checkbox not found for 'reporting_org' = 'UNICEF', trying fallback text input...
+2025-06-29 20:46:10,684 - WARNING - ❌ Could not apply filter 'reporting_org' with fallback either: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7b4493+62419]
+	GetHandleVerifier [0x0x7b44d4+62484]
+	(No symbol) [0x0x5f2133]
+	(No symbol) [0x0x63a8fe]
+	(No symbol) [0x0x63ac9b]
+	(No symbol) [0x0x683052]
+	(No symbol) [0x0x65f4b4]
+	(No symbol) [0x0x68087a]
+	(No symbol) [0x0x65f266]
+	(No symbol) [0x0x62e852]
+	(No symbol) [0x0x62f6f4]
+	GetHandleVerifier [0x0xa24773+2619059]
+	GetHandleVerifier [0x0xa1fb8a+2599626]
+	GetHandleVerifier [0x0x7db03a+221050]
+	GetHandleVerifier [0x0x7cb2b8+156152]
+	GetHandleVerifier [0x0x7d1c6d+183213]
+	GetHandleVerifier [0x0x7bc378+94904]
+	GetHandleVerifier [0x0x7bc502+95298]
+	GetHandleVerifier [0x0x7a765a+9626]
+	BaseThreadInitThunk [0x0x76947ba9+25]
+	RtlInitializeExceptionChain [0x0x76f3c0cb+107]
+	RtlClearBits [0x0x76f3c04f+191]
+
+2025-06-29 20:46:10,685 - INFO - 🔍 Applying filter: sector = Health
+2025-06-29 20:46:31,120 - INFO - ☑️ Selected checkbox: Health
+2025-06-29 20:46:32,121 - INFO - 🔍 Applying filter: start_year = 2015
+2025-06-29 20:47:12,847 - WARNING - ⚠️ Checkbox not found for 'start_year' = '2015', trying fallback text input...
+2025-06-29 20:47:33,230 - WARNING - ❌ Could not apply filter 'start_year' with fallback either: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7b4493+62419]
+	GetHandleVerifier [0x0x7b44d4+62484]
+	(No symbol) [0x0x5f2133]
+	(No symbol) [0x0x63a8fe]
+	(No symbol) [0x0x63ac9b]
+	(No symbol) [0x0x683052]
+	(No symbol) [0x0x65f4b4]
+	(No symbol) [0x0x68087a]
+	(No symbol) [0x0x65f266]
+	(No symbol) [0x0x62e852]
+	(No symbol) [0x0x62f6f4]
+	GetHandleVerifier [0x0xa24773+2619059]
+	GetHandleVerifier [0x0xa1fb8a+2599626]
+	GetHandleVerifier [0x0x7db03a+221050]
+	GetHandleVerifier [0x0x7cb2b8+156152]
+	GetHandleVerifier [0x0x7d1c6d+183213]
+	GetHandleVerifier [0x0x7bc378+94904]
+	GetHandleVerifier [0x0x7bc502+95298]
+	GetHandleVerifier [0x0x7a765a+9626]
+	BaseThreadInitThunk [0x0x76947ba9+25]
+	RtlInitializeExceptionChain [0x0x76f3c0cb+107]
+	RtlClearBits [0x0x76f3c04f+191]
+
+2025-06-29 20:47:33,234 - INFO - 🔍 Applying filter: end_year = 2022
+2025-06-29 20:48:14,148 - WARNING - ⚠️ Checkbox not found for 'end_year' = '2022', trying fallback text input...
+2025-06-29 20:48:34,539 - WARNING - ❌ Could not apply filter 'end_year' with fallback either: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7b4493+62419]
+	GetHandleVerifier [0x0x7b44d4+62484]
+	(No symbol) [0x0x5f2133]
+	(No symbol) [0x0x63a8fe]
+	(No symbol) [0x0x63ac9b]
+	(No symbol) [0x0x683052]
+	(No symbol) [0x0x65f4b4]
+	(No symbol) [0x0x68087a]
+	(No symbol) [0x0x65f266]
+	(No symbol) [0x0x62e852]
+	(No symbol) [0x0x62f6f4]
+	GetHandleVerifier [0x0xa24773+2619059]
+	GetHandleVerifier [0x0xa1fb8a+2599626]
+	GetHandleVerifier [0x0x7db03a+221050]
+	GetHandleVerifier [0x0x7cb2b8+156152]
+	GetHandleVerifier [0x0x7d1c6d+183213]
+	GetHandleVerifier [0x0x7bc378+94904]
+	GetHandleVerifier [0x0x7bc502+95298]
+	GetHandleVerifier [0x0x7a765a+9626]
+	BaseThreadInitThunk [0x0x76947ba9+25]
+	RtlInitializeExceptionChain [0x0x76f3c0cb+107]
+	RtlClearBits [0x0x76f3c04f+191]
+
+2025-06-29 20:48:34,560 - INFO - ✅ Filtered projects loaded.
+2025-06-29 20:48:34,561 - INFO - 📄 Scraping page 1...
+2025-06-29 20:48:34,659 - INFO - 🔗 Visiting project: https://devtracker.fcdo.gov.uk/projects/GB-GOV-1-300495/summary
+2025-06-29 20:48:45,235 - INFO - ✅ Found JSON link: https://fcdo.iati.cloud/search/activity/?q=iati_identifier:GB-GOV-1-300495&fl=*&format=json
+2025-06-29 20:48:47,290 - INFO - 🔗 Visiting project: https://devtracker.fcdo.gov.uk/projects/GB-GOV-1-300708/summary
+2025-06-29 20:49:09,739 - INFO - ✅ Found JSON link: https://fcdo.iati.cloud/search/activity/?q=iati_identifier:GB-GOV-1-300708&fl=*&format=json
+2025-06-29 20:49:11,765 - INFO - 🔗 Visiting project: https://devtracker.fcdo.gov.uk/projects/GB-GOV-1-301362/summary
+2025-06-29 20:49:18,956 - INFO - ✅ Found JSON link: https://fcdo.iati.cloud/search/activity/?q=iati_identifier:GB-GOV-1-301362&fl=*&format=json
+2025-06-29 20:49:20,992 - INFO - 🔗 Visiting project: https://devtracker.fcdo.gov.uk/projects/GB-1-205238/summary
+2025-06-29 20:49:23,857 - INFO - ✅ Found JSON link: https://fcdo.iati.cloud/search/activity/?q=iati_identifier:GB-1-205238&fl=*&format=json
+2025-06-29 20:49:25,879 - INFO - 🔗 Visiting project: https://devtracker.fcdo.gov.uk/projects/GB-GOV-1-301532/summary
+2025-06-29 20:49:27,328 - INFO - ✅ Found JSON link: https://fcdo.iati.cloud/search/activity/?q=iati_identifier:GB-GOV-1-301532&fl=*&format=json
+2025-06-29 20:49:29,355 - INFO - 🔗 Visiting project: https://devtracker.fcdo.gov.uk/projects/GB-GOV-3-CSSF/summary
+2025-06-29 20:49:51,276 - INFO - ✅ Found JSON link: https://fcdo.iati.cloud/search/activity/?q=iati_identifier:GB-GOV-3-CSSF&fl=*&format=json
+2025-06-29 20:49:53,303 - INFO - 🔗 Visiting project: https://devtracker.fcdo.gov.uk/projects/GB-GOV-1-400118/summary
+2025-06-29 20:49:55,414 - INFO - ✅ Found JSON link: https://fcdo.iati.cloud/search/activity/?q=iati_identifier:GB-GOV-1-400118&fl=*&format=json
+2025-06-29 20:49:57,436 - INFO - 🔗 Visiting project: https://devtracker.fcdo.gov.uk/projects/GB-GOV-1-301049/summary
+2025-06-29 20:49:58,731 - INFO - ✅ Found JSON link: https://fcdo.iati.cloud/search/activity/?q=iati_identifier:GB-GOV-1-301049&fl=*&format=json
+2025-06-29 20:50:00,788 - INFO - ⛔ No more pages.

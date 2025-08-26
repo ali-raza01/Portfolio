@@ -1,0 +1,787 @@
+2025-06-29 20:17:14,814 INFO 🚀 Starting BII scrape
+2025-06-29 20:17:14,815 INFO Filters → {"country": "Nigeria", "reporting_org": "UNICEF", "sector": "Health", "start_year": 2015, "end_year": 2022}
+2025-06-29 20:33:52,249 INFO 🚀 Starting BII scrape
+2025-06-29 20:33:52,249 INFO Filters → {"country": "Nigeria", "reporting_org": "UNICEF", "sector": "Health", "start_year": 2015, "end_year": 2022}
+2025-06-29 20:34:02,154 INFO patching driver executable C:\Users\amnaj\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-29 20:34:11,012 INFO 🍪 Cookie banner accepted
+2025-06-29 20:34:11,282 INFO ❌ Subscription popup closed
+2025-06-29 20:34:12,295 INFO 🌍 country selected: Nigeria
+2025-06-29 20:34:12,937 INFO ✅ Selected country filter(s): ['Nigeria']
+2025-06-29 20:34:13,786 INFO 🏗️ sector selected: Health
+2025-06-29 20:34:14,292 INFO ✅ Selected sector filter(s): ['Health']
+2025-06-29 20:34:14,592 INFO ⏱️ Start date 01/01/2015
+2025-06-29 20:34:14,850 INFO ⏱️ End date 31/12/2022
+2025-06-29 20:34:16,052 INFO 🔍 Clicking the Search button …
+2025-06-29 20:34:16,425 INFO ✅ Search completed and CSV download is now available
+2025-06-29 20:34:16,426 INFO 🔁 Tab 'direct' download attempt 1/3
+2025-06-29 20:34:16,426 INFO ⬇️  direct CSV attempt 1/3
+2025-06-29 20:34:18,835 ERROR ❌ direct tab failed attempt 1: name 'StaleElementReferenceException' is not defined
+2025-06-29 20:34:20,837 INFO 🔁 Tab 'direct' download attempt 2/3
+2025-06-29 20:34:20,837 INFO ⬇️  direct CSV attempt 1/3
+2025-06-29 20:34:23,088 INFO ✅ downloaded export_investment_2025-06-29.csv
+2025-06-29 20:34:23,088 INFO New Name of file nigeria_health_direct_20250629_203423.csv
+2025-06-29 20:34:23,089 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_direct_20250629_203423.csv
+2025-06-29 20:34:23,091 INFO 🔁 Tab 'funds' download attempt 1/3
+2025-06-29 20:34:23,525 INFO 📑 switched → Funds tab
+2025-06-29 20:34:24,526 INFO ⬇️  funds CSV attempt 1/3
+2025-06-29 20:34:30,266 INFO ✅ downloaded export_fund_2025-06-29.csv
+2025-06-29 20:34:30,267 INFO New Name of file nigeria_health_funds_20250629_203430.csv
+2025-06-29 20:34:30,267 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_funds_20250629_203430.csv
+2025-06-29 20:34:30,270 INFO 🔁 Tab 'underlying' download attempt 1/3
+2025-06-29 20:34:30,525 INFO 📑 switched → Underlying tab
+2025-06-29 20:34:31,527 INFO ⬇️  underlying CSV attempt 1/3
+2025-06-29 20:34:33,572 INFO ✅ downloaded export_underlying_2025-06-29.csv
+2025-06-29 20:34:33,572 INFO New Name of file nigeria_health_underlying_20250629_203433.csv
+2025-06-29 20:34:33,573 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_underlying_20250629_203433.csv
+2025-06-30 15:28:30,242 INFO 🚀 Starting BII scrape
+2025-06-30 15:28:30,243 INFO Filters → {"country": "Afghanistan", "reporting_org": "UNICEF", "sector": "Health", "start_year": 2015, "end_year": 2022}
+2025-06-30 15:28:48,405 INFO patching driver executable C:\Users\amnaj\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-30 15:29:16,832 INFO 🍪 Cookie banner accepted
+2025-06-30 15:29:17,103 INFO ❌ Subscription popup closed
+2025-06-30 15:29:21,180 WARNING ⚠️ country value not found: Afghanistan
+2025-06-30 15:29:21,181 WARNING ⚠️ Country filter attempt 1 failed: Afghanistan
+2025-06-30 15:29:23,929 WARNING ⚠️ Country filter attempt 2 failed: Message: element click intercepted: Element <span class="select2-selection select2-selection--multiple" role="combobox" aria-haspopup="true" aria-expanded="true" tabindex="-1" aria-owns="select2-inv-country-results" aria-activedescendant="select2-inv-country-result-5pop-africa">...</span> is not clickable at point (951, 325). Other element would receive the click: <li role="treeitem" aria-live="assertive" class="select2-results__option select2-results__message">...</li>
+  (Session info: chrome=138.0.7204.49)
+Stacktrace:
+	GetHandleVerifier [0x0xfe3b03+62899]
+	GetHandleVerifier [0x0xfe3b44+62964]
+	(No symbol) [0x0xe110f3]
+	(No symbol) [0x0xe5fb30]
+	(No symbol) [0x0xe5deea]
+	(No symbol) [0x0xe5ba67]
+	(No symbol) [0x0xe5ad37]
+	(No symbol) [0x0xe4f3e5]
+	(No symbol) [0x0xe7e50c]
+	(No symbol) [0x0xe4ee74]
+	(No symbol) [0x0xe7e784]
+	(No symbol) [0x0xe9fd81]
+	(No symbol) [0x0xe7e306]
+	(No symbol) [0x0xe4d670]
+	(No symbol) [0x0xe4e4e4]
+	GetHandleVerifier [0x0x1244793+2556483]
+	GetHandleVerifier [0x0x123fd02+2537394]
+	GetHandleVerifier [0x0x100a2fa+220586]
+	GetHandleVerifier [0x0xffaae8+157080]
+	GetHandleVerifier [0x0x100141d+184013]
+	GetHandleVerifier [0x0xfeba68+95512]
+	GetHandleVerifier [0x0xfebc10+95936]
+	GetHandleVerifier [0x0xfd6b5a+9738]
+	BaseThreadInitThunk [0x0x76627ba9+25]
+	RtlInitializeExceptionChain [0x0x7765c0cb+107]
+	RtlClearBits [0x0x7765c04f+191]
+
+2025-06-30 15:29:25,434 ERROR ❌ Failed to apply country filter after retries: ['Afghanistan']
+2025-06-30 15:29:26,645 WARNING ⚠️ Sector filter attempt 1 failed: Message: element click intercepted: Element <span class="select2-selection select2-selection--multiple" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="-1">...</span> is not clickable at point (951, 382). Other element would receive the click: <li class="select2-results__option select2-results__option--highlighted" id="select2-inv-country-result-5pop-africa" role="treeitem" aria-selected="false">...</li>
+  (Session info: chrome=138.0.7204.49)
+Stacktrace:
+	GetHandleVerifier [0x0xfe3b03+62899]
+	GetHandleVerifier [0x0xfe3b44+62964]
+	(No symbol) [0x0xe110f3]
+	(No symbol) [0x0xe5fb30]
+	(No symbol) [0x0xe5deea]
+	(No symbol) [0x0xe5ba67]
+	(No symbol) [0x0xe5ad37]
+	(No symbol) [0x0xe4f3e5]
+	(No symbol) [0x0xe7e50c]
+	(No symbol) [0x0xe4ee74]
+	(No symbol) [0x0xe7e784]
+	(No symbol) [0x0xe9fd81]
+	(No symbol) [0x0xe7e306]
+	(No symbol) [0x0xe4d670]
+	(No symbol) [0x0xe4e4e4]
+	GetHandleVerifier [0x0x1244793+2556483]
+	GetHandleVerifier [0x0x123fd02+2537394]
+	GetHandleVerifier [0x0x100a2fa+220586]
+	GetHandleVerifier [0x0xffaae8+157080]
+	GetHandleVerifier [0x0x100141d+184013]
+	GetHandleVerifier [0x0xfeba68+95512]
+	GetHandleVerifier [0x0xfebc10+95936]
+	GetHandleVerifier [0x0xfd6b5a+9738]
+	BaseThreadInitThunk [0x0x76627ba9+25]
+	RtlInitializeExceptionChain [0x0x7765c0cb+107]
+	RtlClearBits [0x0x7765c04f+191]
+
+2025-06-30 15:29:29,474 WARNING ⚠️ Sector filter attempt 2 failed: Message: element click intercepted: Element <span class="select2-selection select2-selection--multiple" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="-1">...</span> is not clickable at point (951, 382). Other element would receive the click: <li class="select2-results__option" id="select2-inv-country-result-5pop-africa" role="treeitem" aria-selected="false">...</li>
+  (Session info: chrome=138.0.7204.49)
+Stacktrace:
+	GetHandleVerifier [0x0xfe3b03+62899]
+	GetHandleVerifier [0x0xfe3b44+62964]
+	(No symbol) [0x0xe110f3]
+	(No symbol) [0x0xe5fb30]
+	(No symbol) [0x0xe5deea]
+	(No symbol) [0x0xe5ba67]
+	(No symbol) [0x0xe5ad37]
+	(No symbol) [0x0xe4f3e5]
+	(No symbol) [0x0xe7e50c]
+	(No symbol) [0x0xe4ee74]
+	(No symbol) [0x0xe7e784]
+	(No symbol) [0x0xe9fd81]
+	(No symbol) [0x0xe7e306]
+	(No symbol) [0x0xe4d670]
+	(No symbol) [0x0xe4e4e4]
+	GetHandleVerifier [0x0x1244793+2556483]
+	GetHandleVerifier [0x0x123fd02+2537394]
+	GetHandleVerifier [0x0x100a2fa+220586]
+	GetHandleVerifier [0x0xffaae8+157080]
+	GetHandleVerifier [0x0x100141d+184013]
+	GetHandleVerifier [0x0xfeba68+95512]
+	GetHandleVerifier [0x0xfebc10+95936]
+	GetHandleVerifier [0x0xfd6b5a+9738]
+	BaseThreadInitThunk [0x0x76627ba9+25]
+	RtlInitializeExceptionChain [0x0x7765c0cb+107]
+	RtlClearBits [0x0x7765c04f+191]
+
+2025-06-30 15:29:30,979 ERROR ❌ Failed to apply sector filter after retries: ['Health']
+2025-06-30 15:29:31,249 INFO ⏱️ Start date 01/01/2015
+2025-06-30 15:29:31,529 INFO ⏱️ End date 31/12/2022
+2025-06-30 15:29:32,741 INFO 🔍 Clicking the Search button …
+2025-06-30 15:29:33,138 INFO ✅ Search completed and CSV download is now available
+2025-06-30 15:29:33,139 INFO 🔁 Tab 'direct' download attempt 1/3
+2025-06-30 15:29:33,139 INFO ⬇️  direct CSV attempt 1/3
+2025-06-30 15:29:35,817 ERROR ❌ direct tab failed attempt 1: name 'StaleElementReferenceException' is not defined
+2025-06-30 15:29:37,818 INFO 🔁 Tab 'direct' download attempt 2/3
+2025-06-30 15:29:37,819 INFO ⬇️  direct CSV attempt 1/3
+2025-06-30 15:29:40,246 ERROR ❌ direct tab failed attempt 2: name 'StaleElementReferenceException' is not defined
+2025-06-30 15:29:42,247 INFO 🔁 Tab 'direct' download attempt 3/3
+2025-06-30 15:29:42,248 INFO ⬇️  direct CSV attempt 1/3
+2025-06-30 15:29:44,419 ERROR ❌ direct tab failed attempt 3: name 'StaleElementReferenceException' is not defined
+2025-06-30 15:29:46,420 ERROR ❌ direct tab failed: Message: ❌ Failed to download from direct tab after 3 retries.
+
+2025-06-30 15:29:46,422 INFO 🔁 Tab 'funds' download attempt 1/3
+2025-06-30 15:29:47,085 INFO 📑 switched → Funds tab
+2025-06-30 15:29:48,086 INFO ⬇️  funds CSV attempt 1/3
+2025-06-30 15:29:54,024 INFO ✅ downloaded export_fund_2025-06-30.csv
+2025-06-30 15:29:54,025 INFO New Name of file afghanistan_health_funds_20250630_152954.csv
+2025-06-30 15:29:54,027 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\afghanistan_health_funds_20250630_152954.csv
+2025-06-30 15:29:54,031 INFO 🔁 Tab 'underlying' download attempt 1/3
+2025-06-30 15:29:54,324 INFO 📑 switched → Underlying tab
+2025-06-30 15:29:55,350 INFO ⬇️  underlying CSV attempt 1/3
+2025-06-30 15:30:01,316 INFO ✅ downloaded export_underlying_2025-06-30.csv
+2025-06-30 15:30:01,316 INFO New Name of file afghanistan_health_underlying_20250630_153001.csv
+2025-06-30 15:30:01,316 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\afghanistan_health_underlying_20250630_153001.csv
+2025-06-30 15:42:13,727 INFO 🚀 Starting BII scrape
+2025-06-30 15:42:13,727 INFO Filters → {"country": "Afghanistan", "reporting_org": "UNICEF", "sector": "Health", "start_year": 2015, "end_year": 2022}
+2025-06-30 15:42:31,738 INFO patching driver executable C:\Users\amnaj\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-30 15:42:40,282 INFO 🍪 Cookie banner accepted
+2025-06-30 15:42:40,567 INFO ❌ Subscription popup closed
+2025-06-30 15:42:44,514 WARNING ⚠️ country value not found: Afghanistan
+2025-06-30 15:42:44,515 WARNING ⚠️ Country filter attempt 1 failed: Afghanistan
+2025-06-30 15:42:47,248 WARNING ⚠️ Country filter attempt 2 failed: Message: element click intercepted: Element <span class="select2-selection select2-selection--multiple" role="combobox" aria-haspopup="true" aria-expanded="true" tabindex="-1" aria-owns="select2-inv-country-results" aria-activedescendant="select2-inv-country-result-7mte-africa">...</span> is not clickable at point (951, 325). Other element would receive the click: <li role="treeitem" aria-live="assertive" class="select2-results__option select2-results__message">...</li>
+  (Session info: chrome=138.0.7204.49)
+Stacktrace:
+	GetHandleVerifier [0x0xc53b03+62899]
+	GetHandleVerifier [0x0xc53b44+62964]
+	(No symbol) [0x0xa810f3]
+	(No symbol) [0x0xacfb30]
+	(No symbol) [0x0xacdeea]
+	(No symbol) [0x0xacba67]
+	(No symbol) [0x0xacad37]
+	(No symbol) [0x0xabf3e5]
+	(No symbol) [0x0xaee50c]
+	(No symbol) [0x0xabee74]
+	(No symbol) [0x0xaee784]
+	(No symbol) [0x0xb0fd81]
+	(No symbol) [0x0xaee306]
+	(No symbol) [0x0xabd670]
+	(No symbol) [0x0xabe4e4]
+	GetHandleVerifier [0x0xeb4793+2556483]
+	GetHandleVerifier [0x0xeafd02+2537394]
+	GetHandleVerifier [0x0xc7a2fa+220586]
+	GetHandleVerifier [0x0xc6aae8+157080]
+	GetHandleVerifier [0x0xc7141d+184013]
+	GetHandleVerifier [0x0xc5ba68+95512]
+	GetHandleVerifier [0x0xc5bc10+95936]
+	GetHandleVerifier [0x0xc46b5a+9738]
+	BaseThreadInitThunk [0x0x76627ba9+25]
+	RtlInitializeExceptionChain [0x0x7765c0cb+107]
+	RtlClearBits [0x0x7765c04f+191]
+
+2025-06-30 15:42:48,752 ERROR ❌ Failed to apply country filter after retries: ['Afghanistan']
+2025-06-30 15:42:48,753 ERROR country not found in dropdown.
+2025-06-30 15:43:54,607 INFO 🚀 Starting BII scrape
+2025-06-30 15:43:54,608 INFO Filters → {"country": "Nigeria", "reporting_org": "UNICEF", "sector": "Health", "start_year": 2015, "end_year": 2022}
+2025-06-30 15:44:07,418 INFO patching driver executable C:\Users\amnaj\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-30 15:44:17,800 INFO 🍪 No cookie banner
+2025-06-30 15:44:18,112 INFO ❌ Subscription popup closed
+2025-06-30 15:44:19,063 INFO 🌍 country selected: Nigeria
+2025-06-30 15:44:19,698 INFO ✅ Selected country filter(s): ['Nigeria']
+2025-06-30 15:44:20,993 WARNING ⚠️ Sector filter attempt 1 failed: Message: element click intercepted: Element <span class="select2-selection select2-selection--multiple" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="-1">...</span> is not clickable at point (951, 394). Other element would receive the click: <aside id="moove_gdpr_cookie_info_bar" class="moove-gdpr-align-center moove-gdpr-dark-scheme gdpr_infobar_postion_bottom" aria-label="GDPR Cookie Banner" style="">...</aside>
+  (Session info: chrome=138.0.7204.49)
+Stacktrace:
+	GetHandleVerifier [0x0x913b03+62899]
+	GetHandleVerifier [0x0x913b44+62964]
+	(No symbol) [0x0x7410f3]
+	(No symbol) [0x0x78fb30]
+	(No symbol) [0x0x78deea]
+	(No symbol) [0x0x78ba67]
+	(No symbol) [0x0x78ad37]
+	(No symbol) [0x0x77f3e5]
+	(No symbol) [0x0x7ae50c]
+	(No symbol) [0x0x77ee74]
+	(No symbol) [0x0x7ae784]
+	(No symbol) [0x0x7cfd81]
+	(No symbol) [0x0x7ae306]
+	(No symbol) [0x0x77d670]
+	(No symbol) [0x0x77e4e4]
+	GetHandleVerifier [0x0xb74793+2556483]
+	GetHandleVerifier [0x0xb6fd02+2537394]
+	GetHandleVerifier [0x0x93a2fa+220586]
+	GetHandleVerifier [0x0x92aae8+157080]
+	GetHandleVerifier [0x0x93141d+184013]
+	GetHandleVerifier [0x0x91ba68+95512]
+	GetHandleVerifier [0x0x91bc10+95936]
+	GetHandleVerifier [0x0x906b5a+9738]
+	BaseThreadInitThunk [0x0x76627ba9+25]
+	RtlInitializeExceptionChain [0x0x7765c0cb+107]
+	RtlClearBits [0x0x7765c04f+191]
+
+2025-06-30 15:44:23,793 WARNING ⚠️ Sector filter attempt 2 failed: Message: element click intercepted: Element <span class="select2-selection select2-selection--multiple" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="-1">...</span> is not clickable at point (951, 394). Other element would receive the click: <aside id="moove_gdpr_cookie_info_bar" class="moove-gdpr-align-center moove-gdpr-dark-scheme gdpr_infobar_postion_bottom" aria-label="GDPR Cookie Banner" style="">...</aside>
+  (Session info: chrome=138.0.7204.49)
+Stacktrace:
+	GetHandleVerifier [0x0x913b03+62899]
+	GetHandleVerifier [0x0x913b44+62964]
+	(No symbol) [0x0x7410f3]
+	(No symbol) [0x0x78fb30]
+	(No symbol) [0x0x78deea]
+	(No symbol) [0x0x78ba67]
+	(No symbol) [0x0x78ad37]
+	(No symbol) [0x0x77f3e5]
+	(No symbol) [0x0x7ae50c]
+	(No symbol) [0x0x77ee74]
+	(No symbol) [0x0x7ae784]
+	(No symbol) [0x0x7cfd81]
+	(No symbol) [0x0x7ae306]
+	(No symbol) [0x0x77d670]
+	(No symbol) [0x0x77e4e4]
+	GetHandleVerifier [0x0xb74793+2556483]
+	GetHandleVerifier [0x0xb6fd02+2537394]
+	GetHandleVerifier [0x0x93a2fa+220586]
+	GetHandleVerifier [0x0x92aae8+157080]
+	GetHandleVerifier [0x0x93141d+184013]
+	GetHandleVerifier [0x0x91ba68+95512]
+	GetHandleVerifier [0x0x91bc10+95936]
+	GetHandleVerifier [0x0x906b5a+9738]
+	BaseThreadInitThunk [0x0x76627ba9+25]
+	RtlInitializeExceptionChain [0x0x7765c0cb+107]
+	RtlClearBits [0x0x7765c04f+191]
+
+2025-06-30 15:44:25,299 ERROR ❌ Failed to apply sector filter after retries: ['Health']
+2025-06-30 15:44:25,300 ERROR sector not found in dropdown.
+2025-06-30 15:44:59,715 INFO 🚀 Starting BII scrape
+2025-06-30 15:44:59,715 INFO Filters → {"country": "Nigeria", "reporting_org": "UNICEF", "sector": "Health", "start_year": 2015, "end_year": 2022}
+2025-06-30 15:45:10,471 INFO patching driver executable C:\Users\amnaj\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-30 15:45:19,400 INFO 🍪 Cookie banner accepted
+2025-06-30 15:45:19,666 INFO ❌ Subscription popup closed
+2025-06-30 15:45:20,555 INFO 🌍 country selected: Nigeria
+2025-06-30 15:45:21,154 INFO ✅ Selected country filter(s): ['Nigeria']
+2025-06-30 15:45:22,121 INFO 🏗️ sector selected: Health
+2025-06-30 15:45:22,586 INFO ✅ Selected sector filter(s): ['Health']
+2025-06-30 15:45:22,851 INFO ⏱️ Start date 01/01/2015
+2025-06-30 15:45:23,144 INFO ⏱️ End date 31/12/2022
+2025-06-30 15:45:24,345 INFO 🔍 Clicking the Search button …
+2025-06-30 15:45:24,563 INFO ✅ Search completed and CSV download is now available
+2025-06-30 15:45:24,564 INFO 🔁 Tab 'direct' download attempt 1/3
+2025-06-30 15:45:24,564 INFO ⬇️  direct CSV attempt 1/3
+2025-06-30 15:45:26,841 ERROR ❌ direct tab failed attempt 1: name 'StaleElementReferenceException' is not defined
+2025-06-30 15:45:28,842 INFO 🔁 Tab 'direct' download attempt 2/3
+2025-06-30 15:45:28,842 INFO ⬇️  direct CSV attempt 1/3
+2025-06-30 15:45:31,158 ERROR ❌ direct tab failed attempt 2: name 'StaleElementReferenceException' is not defined
+2025-06-30 15:45:33,160 INFO 🔁 Tab 'direct' download attempt 3/3
+2025-06-30 15:45:33,161 INFO ⬇️  direct CSV attempt 1/3
+2025-06-30 15:45:35,022 ERROR ❌ direct tab failed attempt 3: name 'StaleElementReferenceException' is not defined
+2025-06-30 15:45:37,023 ERROR ❌ direct tab failed: Message: ❌ Failed to download from direct tab after 3 retries.
+
+2025-06-30 15:45:37,024 INFO 🔁 Tab 'funds' download attempt 1/3
+2025-06-30 15:45:37,328 INFO 📑 switched → Funds tab
+2025-06-30 15:45:38,329 INFO ⬇️  funds CSV attempt 1/3
+2025-06-30 15:45:43,992 INFO ✅ downloaded export_fund_2025-06-30.csv
+2025-06-30 15:45:43,993 INFO New Name of file nigeria_health_funds_20250630_154543.csv
+2025-06-30 15:45:43,993 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_funds_20250630_154543.csv
+2025-06-30 15:45:43,996 INFO 🔁 Tab 'underlying' download attempt 1/3
+2025-06-30 15:45:44,254 INFO 📑 switched → Underlying tab
+2025-06-30 15:45:45,255 INFO ⬇️  underlying CSV attempt 1/3
+2025-06-30 15:45:48,770 INFO ✅ downloaded export_underlying_2025-06-30.csv
+2025-06-30 15:45:48,770 INFO New Name of file nigeria_health_underlying_20250630_154548.csv
+2025-06-30 15:45:48,771 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_underlying_20250630_154548.csv
+2025-06-30 15:46:54,063 INFO 🚀 Starting BII scrape
+2025-06-30 15:46:54,063 INFO Filters → {"country": "Nigeria", "reporting_org": "UNICEF", "sector": "Health", "start_year": 2015, "end_year": 2022}
+2025-06-30 15:47:03,899 INFO patching driver executable C:\Users\amnaj\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-30 15:47:13,737 INFO 🍪 Cookie banner accepted
+2025-06-30 15:47:13,997 INFO ❌ Subscription popup closed
+2025-06-30 15:47:14,652 INFO 🌍 country selected: Nigeria
+2025-06-30 15:47:15,098 INFO ✅ Selected country filter(s): ['Nigeria']
+2025-06-30 15:47:15,643 INFO 🏗️ sector selected: Health
+2025-06-30 15:47:16,144 INFO ✅ Selected sector filter(s): ['Health']
+2025-06-30 15:47:16,400 INFO ⏱️ Start date 01/01/2015
+2025-06-30 15:47:16,785 INFO ⏱️ End date 31/12/2022
+2025-06-30 15:47:17,986 INFO 🔍 Clicking the Search button …
+2025-06-30 15:47:18,236 INFO ✅ Search completed and CSV download is now available
+2025-06-30 15:47:18,237 INFO 🔁 Tab 'direct' download attempt 1/3
+2025-06-30 15:47:18,238 INFO ⬇️  direct CSV attempt 1/3
+2025-06-30 15:47:22,378 INFO ✅ downloaded export_investment_2025-06-30.csv
+2025-06-30 15:47:22,379 INFO New Name of file nigeria_health_direct_20250630_154722.csv
+2025-06-30 15:47:22,379 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_direct_20250630_154722.csv
+2025-06-30 15:47:22,382 INFO 🔁 Tab 'funds' download attempt 1/3
+2025-06-30 15:47:22,791 INFO 📑 switched → Funds tab
+2025-06-30 15:47:23,793 INFO ⬇️  funds CSV attempt 1/3
+2025-06-30 15:47:25,908 INFO ✅ downloaded export_fund_2025-06-30.csv
+2025-06-30 15:47:25,908 INFO New Name of file nigeria_health_funds_20250630_154725.csv
+2025-06-30 15:47:25,909 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_funds_20250630_154725.csv
+2025-06-30 15:47:25,910 INFO 🔁 Tab 'underlying' download attempt 1/3
+2025-06-30 15:47:26,197 INFO 📑 switched → Underlying tab
+2025-06-30 15:47:27,198 INFO ⬇️  underlying CSV attempt 1/3
+2025-06-30 15:47:29,590 INFO ✅ downloaded export_underlying_2025-06-30.csv
+2025-06-30 15:47:29,592 INFO New Name of file nigeria_health_underlying_20250630_154729.csv
+2025-06-30 15:47:29,593 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_underlying_20250630_154729.csv
+2025-06-30 15:51:50,462 INFO 🚀 Starting BII scrape
+2025-06-30 15:51:50,462 INFO Filters → {"country": "Nigeria", "reporting_org": "UNICEF", "sector": "Health", "start_year": 2015, "end_year": 2022}
+2025-06-30 15:51:59,151 INFO patching driver executable C:\Users\amnaj\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-30 15:52:18,704 INFO 🍪 Cookie banner accepted
+2025-06-30 15:52:18,908 INFO ❌ Subscription popup closed
+2025-06-30 15:52:19,690 INFO 🌍 country selected: Nigeria
+2025-06-30 15:52:20,337 INFO ✅ Selected country filter(s): ['Nigeria']
+2025-06-30 15:52:21,168 INFO 🏗️ sector selected: Health
+2025-06-30 15:52:21,604 INFO ✅ Selected sector filter(s): ['Health']
+2025-06-30 15:52:21,800 INFO ⏱️ Start date 01/01/2015
+2025-06-30 15:52:22,063 INFO ⏱️ End date 31/12/2022
+2025-06-30 15:52:23,265 INFO 🔍 Clicking the Search button …
+2025-06-30 15:52:23,724 INFO ✅ Search completed and CSV download is now available
+2025-06-30 15:52:23,725 INFO 🔁 Tab 'direct' download attempt 1/3
+2025-06-30 15:52:23,726 INFO ⬇️  direct CSV attempt 1/3
+2025-06-30 15:52:26,145 ERROR ❌ direct tab failed attempt 1: name 'StaleElementReferenceException' is not defined
+2025-06-30 15:52:28,146 INFO 🔁 Tab 'direct' download attempt 2/3
+2025-06-30 15:52:28,147 INFO ⬇️  direct CSV attempt 1/3
+2025-06-30 15:52:31,156 INFO ✅ downloaded export_investment_2025-06-30.csv
+2025-06-30 15:52:31,158 INFO New Name of file nigeria_health_direct_20250630_155231.csv
+2025-06-30 15:52:31,160 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_direct_20250630_155231.csv
+2025-06-30 15:52:31,165 INFO 🔁 Tab 'funds' download attempt 1/3
+2025-06-30 15:52:31,460 INFO 📑 switched → Funds tab
+2025-06-30 15:52:32,462 INFO ⬇️  funds CSV attempt 1/3
+2025-06-30 15:52:36,174 INFO ✅ downloaded export_fund_2025-06-30.csv
+2025-06-30 15:52:36,176 INFO New Name of file nigeria_health_funds_20250630_155236.csv
+2025-06-30 15:52:36,178 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_funds_20250630_155236.csv
+2025-06-30 15:52:36,183 INFO 🔁 Tab 'underlying' download attempt 1/3
+2025-06-30 15:52:36,448 INFO 📑 switched → Underlying tab
+2025-06-30 15:52:37,449 INFO ⬇️  underlying CSV attempt 1/3
+2025-06-30 15:52:40,622 INFO ✅ downloaded export_underlying_2025-06-30.csv
+2025-06-30 15:52:40,624 INFO New Name of file nigeria_health_underlying_20250630_155240.csv
+2025-06-30 15:52:40,625 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_underlying_20250630_155240.csv
+2025-06-30 15:56:06,215 INFO 🚀 Starting BII scrape
+2025-06-30 15:56:06,215 INFO Filters → {"country": "Nigeria", "reporting_org": "UNICEF", "sector": "Health", "start_year": 2015, "end_year": 2022}
+2025-06-30 15:56:17,321 INFO patching driver executable C:\Users\amnaj\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-30 15:56:25,281 INFO 🍪 No cookie banner
+2025-06-30 15:56:30,756 INFO ❌ No subscription popup
+2025-06-30 15:56:31,534 INFO 🌍 country selected: Nigeria
+2025-06-30 15:56:32,083 INFO ✅ Selected country filter(s): ['Nigeria']
+2025-06-30 15:56:32,862 INFO 🏗️ sector selected: Health
+2025-06-30 15:56:33,341 INFO ✅ Selected sector filter(s): ['Health']
+2025-06-30 15:56:33,593 INFO ⏱️ Start date 01/01/2015
+2025-06-30 15:56:33,747 INFO ⏱️ End date 31/12/2022
+2025-06-30 15:56:34,949 INFO 🔍 Clicking the Search button …
+2025-06-30 15:56:37,155 INFO ✅ Search completed and CSV download is now available
+2025-06-30 15:56:37,155 INFO 🔁 Tab 'direct' download attempt 1/3
+2025-06-30 15:56:37,155 INFO ⬇️  direct CSV attempt 1/3
+2025-06-30 15:56:39,552 INFO ✅ downloaded export_investment_2025-06-30.csv
+2025-06-30 15:56:39,553 INFO New Name of file nigeria_health_direct_20250630_155639.csv
+2025-06-30 15:56:39,554 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_direct_20250630_155639.csv
+2025-06-30 15:56:39,556 INFO 🔁 Tab 'funds' download attempt 1/3
+2025-06-30 15:56:39,936 INFO 📑 switched → Funds tab
+2025-06-30 15:56:40,937 INFO ⬇️  funds CSV attempt 1/3
+2025-06-30 15:56:43,007 INFO ✅ downloaded export_fund_2025-06-30.csv
+2025-06-30 15:56:43,008 INFO New Name of file nigeria_health_funds_20250630_155643.csv
+2025-06-30 15:56:43,009 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_funds_20250630_155643.csv
+2025-06-30 15:56:43,012 INFO 🔁 Tab 'underlying' download attempt 1/3
+2025-06-30 15:56:43,357 INFO 📑 switched → Underlying tab
+2025-06-30 15:56:44,358 INFO ⬇️  underlying CSV attempt 1/3
+2025-06-30 15:56:46,722 INFO ✅ downloaded export_underlying_2025-06-30.csv
+2025-06-30 15:56:46,722 INFO New Name of file nigeria_health_underlying_20250630_155646.csv
+2025-06-30 15:56:46,723 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_underlying_20250630_155646.csv
+2025-06-30 15:57:27,140 INFO 🚀 Starting BII scrape
+2025-06-30 15:57:27,141 INFO Filters → {"country": "Nigeria", "reporting_org": "UNICEF", "sector": "Health", "start_year": 2015, "end_year": 2022}
+2025-06-30 15:57:37,167 INFO patching driver executable C:\Users\amnaj\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-30 15:57:45,020 INFO 🍪 Cookie banner accepted
+2025-06-30 15:57:45,198 INFO ❌ Subscription popup closed
+2025-06-30 15:57:45,788 INFO 🌍 country selected: Nigeria
+2025-06-30 15:57:46,338 INFO ✅ Selected country filter(s): ['Nigeria']
+2025-06-30 15:57:47,291 INFO 🏗️ sector selected: Health
+2025-06-30 15:57:47,820 INFO ✅ Selected sector filter(s): ['Health']
+2025-06-30 15:57:48,134 INFO ⏱️ Start date 01/01/2015
+2025-06-30 15:57:48,404 INFO ⏱️ End date 31/12/2022
+2025-06-30 15:57:49,605 INFO 🔍 Clicking the Search button …
+2025-06-30 15:57:49,822 INFO ✅ Search completed and CSV download is now available
+2025-06-30 15:57:49,822 INFO 🔁 Tab 'direct' download attempt 1/3
+2025-06-30 15:57:49,823 INFO ⬇️  direct CSV attempt 1/3
+2025-06-30 15:57:52,255 INFO ✅ downloaded export_investment_2025-06-30.csv
+2025-06-30 15:57:52,256 INFO New Name of file nigeria_health_direct_20250630_155752.csv
+2025-06-30 15:57:52,256 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_direct_20250630_155752.csv
+2025-06-30 15:57:52,259 INFO 🔁 Tab 'funds' download attempt 1/3
+2025-06-30 15:57:52,695 INFO 📑 switched → Funds tab
+2025-06-30 15:57:53,697 INFO ⬇️  funds CSV attempt 1/3
+2025-06-30 15:57:55,895 INFO ✅ downloaded export_fund_2025-06-30.csv
+2025-06-30 15:57:55,896 INFO New Name of file nigeria_health_funds_20250630_155755.csv
+2025-06-30 15:57:55,897 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_funds_20250630_155755.csv
+2025-06-30 15:57:55,899 INFO 🔁 Tab 'underlying' download attempt 1/3
+2025-06-30 15:57:56,135 INFO 📑 switched → Underlying tab
+2025-06-30 15:57:57,136 INFO ⬇️  underlying CSV attempt 1/3
+2025-06-30 15:57:59,173 INFO ✅ downloaded export_underlying_2025-06-30.csv
+2025-06-30 15:57:59,174 INFO New Name of file nigeria_health_underlying_20250630_155759.csv
+2025-06-30 15:57:59,175 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_underlying_20250630_155759.csv
+2025-06-30 16:00:38,015 INFO 🚀 Starting BII scrape
+2025-06-30 16:00:38,015 INFO Filters → {"country": "Nigeria", "reporting_org": "UNICEF", "sector": "Health", "start_year": 2015, "end_year": 2022}
+2025-06-30 16:01:01,686 INFO patching driver executable C:\Users\amnaj\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-30 16:01:41,011 INFO 🍪 Cookie banner accepted
+2025-06-30 16:01:41,273 INFO ❌ Subscription popup closed
+2025-06-30 16:01:42,358 INFO 🌍 country selected: Nigeria
+2025-06-30 16:01:42,831 INFO ✅ Selected country filter(s): ['Nigeria']
+2025-06-30 16:01:43,576 INFO 🏗️ sector selected: Health
+2025-06-30 16:01:44,033 INFO ✅ Selected sector filter(s): ['Health']
+2025-06-30 16:01:44,214 INFO ⏱️ Start date 01/01/2015
+2025-06-30 16:01:44,379 INFO ⏱️ End date 31/12/2022
+2025-06-30 16:01:45,580 INFO 🔍 Clicking the Search button …
+2025-06-30 16:01:45,862 INFO ✅ Search completed and CSV download is now available
+2025-06-30 16:01:45,862 INFO 🔁 Tab 'direct' download attempt 1/3
+2025-06-30 16:01:45,863 INFO ⬇️  direct CSV attempt 1/3
+2025-06-30 16:01:48,231 ERROR ❌ direct tab failed attempt 1: name 'StaleElementReferenceException' is not defined
+2025-06-30 16:01:50,232 INFO 🔁 Tab 'direct' download attempt 2/3
+2025-06-30 16:01:50,234 INFO ⬇️  direct CSV attempt 1/3
+2025-06-30 16:01:52,437 INFO ✅ downloaded export_investment_2025-06-30.csv
+2025-06-30 16:01:52,438 INFO New Name of file nigeria_health_direct_20250630_160152.csv
+2025-06-30 16:01:52,438 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_direct_20250630_160152.csv
+2025-06-30 16:01:52,440 INFO 🔁 Tab 'funds' download attempt 1/3
+2025-06-30 16:01:52,876 INFO 📑 switched → Funds tab
+2025-06-30 16:01:53,877 INFO ⬇️  funds CSV attempt 1/3
+2025-06-30 16:01:56,096 INFO ✅ downloaded export_fund_2025-06-30.csv
+2025-06-30 16:01:56,098 INFO New Name of file nigeria_health_funds_20250630_160156.csv
+2025-06-30 16:01:56,100 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_funds_20250630_160156.csv
+2025-06-30 16:01:56,103 INFO 🔁 Tab 'underlying' download attempt 1/3
+2025-06-30 16:01:56,405 INFO 📑 switched → Underlying tab
+2025-06-30 16:01:57,407 INFO ⬇️  underlying CSV attempt 1/3
+2025-06-30 16:01:59,940 INFO ✅ downloaded export_underlying_2025-06-30.csv
+2025-06-30 16:01:59,941 INFO New Name of file nigeria_health_underlying_20250630_160159.csv
+2025-06-30 16:01:59,942 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_underlying_20250630_160159.csv
+2025-06-30 17:34:18,643 INFO 🚀 Starting BII scrape
+2025-06-30 17:34:18,647 INFO Filters → {"country": "Afghanistan", "reporting_org": "UNICEF", "sector": "Health", "start_year": 2015, "end_year": 2022}
+2025-06-30 17:34:30,340 INFO patching driver executable C:\Users\amnaj\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-30 17:34:41,217 INFO 🍪 Cookie banner accepted
+2025-06-30 17:34:41,422 INFO ❌ No subscription popup
+2025-06-30 17:34:45,574 WARNING ⚠️ country value not found: Afghanistan
+2025-06-30 17:34:45,574 WARNING ⚠️ Country filter attempt 1 failed: Afghanistan
+2025-06-30 17:34:50,912 WARNING ⚠️ country value not found: Afghanistan
+2025-06-30 17:34:50,913 WARNING ⚠️ Country filter attempt 2 failed: Afghanistan
+2025-06-30 17:34:52,413 ERROR ❌ Failed to apply country filter after retries: ['Afghanistan']
+2025-06-30 17:34:52,414 ERROR country not found in dropdown.
+2025-06-30 17:35:15,882 INFO 🚀 Starting BII scrape
+2025-06-30 17:35:15,884 INFO Filters → {"country": "Nigeria", "reporting_org": "UNICEF", "sector": "Health", "start_year": 2015, "end_year": 2022}
+2025-06-30 17:35:46,211 INFO patching driver executable C:\Users\amnaj\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-30 17:35:56,551 INFO 🍪 Cookie banner accepted
+2025-06-30 17:35:56,838 INFO ❌ Subscription popup closed
+2025-06-30 17:35:57,991 INFO 🌍 country selected: Nigeria
+2025-06-30 17:35:58,775 INFO ✅ Selected country filter(s): ['Nigeria']
+2025-06-30 17:36:00,383 INFO 🏗️ sector selected: Health
+2025-06-30 17:36:00,912 INFO ✅ Selected sector filter(s): ['Health']
+2025-06-30 17:36:01,221 INFO ⏱️ Start date 01/01/2015
+2025-06-30 17:36:01,571 INFO ⏱️ End date 31/12/2022
+2025-06-30 17:36:02,773 INFO 🔍 Clicking the Search button …
+2025-06-30 17:36:03,385 INFO ✅ Search completed and CSV download is now available
+2025-06-30 17:36:03,386 INFO 🔁 Tab 'direct' download attempt 1/3
+2025-06-30 17:36:03,387 INFO ⬇️  direct CSV attempt 1/3
+2025-06-30 17:36:05,984 ERROR ❌ direct tab failed attempt 1: name 'StaleElementReferenceException' is not defined
+2025-06-30 17:36:07,986 INFO 🔁 Tab 'direct' download attempt 2/3
+2025-06-30 17:36:07,987 INFO ⬇️  direct CSV attempt 1/3
+2025-06-30 17:36:10,759 INFO ✅ downloaded export_investment_2025-06-30.csv
+2025-06-30 17:36:10,760 INFO New Name of file nigeria_health_direct_20250630_173610.csv
+2025-06-30 17:36:10,763 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_direct_20250630_173610.csv
+2025-06-30 17:36:10,775 INFO 🔁 Tab 'funds' download attempt 1/3
+2025-06-30 17:36:11,176 INFO 📑 switched → Funds tab
+2025-06-30 17:36:12,177 INFO ⬇️  funds CSV attempt 1/3
+2025-06-30 17:36:19,314 INFO ✅ downloaded export_fund_2025-06-30.csv
+2025-06-30 17:36:19,315 INFO New Name of file nigeria_health_funds_20250630_173619.csv
+2025-06-30 17:36:19,317 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_funds_20250630_173619.csv
+2025-06-30 17:36:19,324 INFO 🔁 Tab 'underlying' download attempt 1/3
+2025-06-30 17:36:19,616 INFO 📑 switched → Underlying tab
+2025-06-30 17:36:20,617 INFO ⬇️  underlying CSV attempt 1/3
+2025-06-30 17:36:23,132 INFO ✅ downloaded export_underlying_2025-06-30.csv
+2025-06-30 17:36:23,136 INFO New Name of file nigeria_health_underlying_20250630_173623.csv
+2025-06-30 17:36:23,138 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_underlying_20250630_173623.csv
+2025-06-30 18:03:59,000 INFO 🚀 Starting BII scrape
+2025-06-30 18:03:59,001 INFO Filters → {"country": "Nigeria", "reporting_org": "UNICEF", "sector": "Health", "start_year": 2015, "end_year": 2022}
+2025-06-30 18:04:11,431 INFO patching driver executable C:\Users\amnaj\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-30 18:04:18,977 INFO 🍪 Cookie banner accepted
+2025-06-30 18:04:19,173 INFO ❌ Subscription popup closed
+2025-06-30 18:04:19,784 INFO 🌍 country selected: Nigeria
+2025-06-30 18:04:20,251 INFO ✅ Selected country filter(s): ['Nigeria']
+2025-06-30 18:04:20,828 INFO 🏗️ sector selected: Health
+2025-06-30 18:04:21,261 INFO ✅ Selected sector filter(s): ['Health']
+2025-06-30 18:04:21,442 INFO ⏱️ Start date 01/01/2015
+2025-06-30 18:04:21,611 INFO ⏱️ End date 31/12/2022
+2025-06-30 18:04:22,811 INFO 🔍 Clicking the Search button …
+2025-06-30 18:04:23,014 INFO ✅ Search completed and CSV download is now available
+2025-06-30 18:04:23,015 INFO 🔁 Tab 'direct' download attempt 1/3
+2025-06-30 18:04:23,015 INFO ⬇️  direct CSV attempt 1/3
+2025-06-30 18:04:25,298 ERROR ❌ direct tab failed attempt 1: name 'StaleElementReferenceException' is not defined
+2025-06-30 18:04:27,299 INFO 🔁 Tab 'direct' download attempt 2/3
+2025-06-30 18:04:27,300 INFO ⬇️  direct CSV attempt 1/3
+2025-06-30 18:04:28,883 INFO [0 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv.crdownload']
+2025-06-30 18:04:29,889 INFO [1 s] Files: ['archive', 'downloads.htm', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm (6).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:04:30,892 INFO [2 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm (5).crdownload', 'downloads.htm (6).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:04:31,894 INFO [3 s] Files: ['archive', 'downloads.htm', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm (5).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:04:32,896 INFO [4 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm (5).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:04:33,899 INFO [5 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm (5).crdownload', 'downloads.htm (6).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:04:34,906 INFO [6 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm (5).crdownload', 'downloads.htm (6).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:04:35,914 INFO [7 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm (5).crdownload', 'downloads.htm (6).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:04:36,916 INFO [8 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm (5).crdownload', 'downloads.htm (6).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:04:37,918 INFO [9 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm (5).crdownload', 'downloads.htm (6).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:04:38,920 INFO [10 s] Files: ['archive', 'downloads.htm', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:04:39,922 INFO [11 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:04:40,925 INFO [12 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:04:41,928 INFO [13 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:04:42,933 INFO [14 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:04:43,936 INFO [15 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:04:44,939 INFO [16 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:04:45,943 INFO [17 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:04:46,946 INFO [18 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:04:47,954 INFO [19 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:04:48,957 INFO [20 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:04:49,959 INFO [21 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:04:50,962 INFO [22 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:04:51,965 INFO [23 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:04:52,967 INFO [24 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:04:53,970 INFO [25 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:04:54,976 INFO [26 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:04:55,980 INFO [27 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:04:56,986 INFO [28 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:04:57,992 INFO [29 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:04:58,993 INFO [30 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm (5).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:04:59,995 INFO [31 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:05:00,997 INFO [32 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:05:02,001 INFO [33 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:05:03,005 INFO [34 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:05:04,008 INFO [35 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:05:05,012 INFO [36 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:05:06,018 INFO [37 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:05:07,023 INFO [38 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:05:08,028 INFO [39 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:05:09,032 INFO [40 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:05:10,036 INFO [41 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:05:11,046 INFO [42 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:05:12,053 INFO [43 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:05:13,055 INFO [44 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:05:14,058 INFO [45 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:05:15,061 INFO [46 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:05:16,063 INFO [47 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:05:17,065 INFO [48 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:05:18,068 INFO [49 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:05:19,074 INFO [50 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:05:20,078 INFO [51 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:05:21,081 INFO [52 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:05:22,085 INFO [53 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:05:23,092 INFO [54 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:05:24,098 INFO [55 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:05:25,100 INFO [56 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:05:26,103 INFO [57 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:05:27,106 INFO [58 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:05:28,108 INFO [59 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:05:29,110 INFO [60 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm (2).crdownload', 'downloads.htm (3).crdownload', 'downloads.htm (4).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:05:30,115 INFO [61 s] Files: ['archive']
+2025-06-30 18:05:31,117 INFO [62 s] Files: ['archive']
+2025-06-30 18:05:32,121 INFO [63 s] Files: ['archive']
+2025-06-30 18:05:33,123 INFO [64 s] Files: ['archive']
+2025-06-30 18:05:34,125 INFO [65 s] Files: ['archive']
+2025-06-30 18:05:35,127 INFO [66 s] Files: ['archive']
+2025-06-30 18:05:36,129 INFO [67 s] Files: ['archive']
+2025-06-30 18:05:37,130 INFO [68 s] Files: ['archive']
+2025-06-30 18:05:38,133 INFO [69 s] Files: ['archive']
+2025-06-30 18:05:39,138 INFO [70 s] Files: ['archive']
+2025-06-30 18:05:40,142 INFO [71 s] Files: ['archive']
+2025-06-30 18:05:41,145 INFO [72 s] Files: ['archive']
+2025-06-30 18:05:42,147 INFO [73 s] Files: ['archive']
+2025-06-30 18:05:43,151 INFO [74 s] Files: ['archive']
+2025-06-30 18:05:44,155 INFO [75 s] Files: ['archive']
+2025-06-30 18:05:45,158 INFO [76 s] Files: ['archive']
+2025-06-30 18:08:24,887 INFO 🚀 Starting BII scrape
+2025-06-30 18:08:24,887 INFO Filters → {"country": "Nigeria", "reporting_org": "UNICEF", "sector": "Health", "start_year": 2015, "end_year": 2022}
+2025-06-30 18:08:37,490 INFO patching driver executable C:\Users\amnaj\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-30 18:08:44,704 INFO 🍪 Cookie banner accepted
+2025-06-30 18:08:44,890 INFO ❌ Subscription popup closed
+2025-06-30 18:08:45,531 INFO 🌍 country selected: Nigeria
+2025-06-30 18:08:45,968 INFO ✅ Selected country filter(s): ['Nigeria']
+2025-06-30 18:08:46,566 INFO 🏗️ sector selected: Health
+2025-06-30 18:08:46,985 INFO ✅ Selected sector filter(s): ['Health']
+2025-06-30 18:08:47,165 INFO ⏱️ Start date 01/01/2015
+2025-06-30 18:08:47,392 INFO ⏱️ End date 31/12/2022
+2025-06-30 18:08:48,593 INFO 🔍 Clicking the Search button …
+2025-06-30 18:08:48,802 INFO ✅ Search completed and CSV download is now available
+2025-06-30 18:08:48,803 INFO 🔁 Tab 'direct' download attempt 1/3
+2025-06-30 18:08:48,803 INFO ⬇️  direct CSV attempt 1/3
+2025-06-30 18:08:51,108 ERROR ❌ direct tab failed attempt 1: name 'StaleElementReferenceException' is not defined
+2025-06-30 18:08:53,109 INFO 🔁 Tab 'direct' download attempt 2/3
+2025-06-30 18:08:53,109 INFO ⬇️  direct CSV attempt 1/3
+2025-06-30 18:08:55,446 INFO [0 s] Files: ['archive', 'export_investment_2025-06-30.csv.crdownload']
+2025-06-30 18:08:56,450 INFO [1 s] Files: ['archive', 'downloads.htm', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:08:57,454 INFO [2 s] Files: ['archive', 'downloads.htm', 'downloads.htm (1).crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:08:58,458 INFO [3 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:08:59,460 INFO [4 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:09:00,463 INFO [5 s] Files: ['archive', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:09:01,466 INFO [6 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:09:02,470 INFO [7 s] Files: ['archive', 'downloads.htm (1).crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:09:03,472 INFO [8 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:09:04,475 INFO [9 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:09:05,477 INFO [10 s] Files: ['archive', 'downloads.htm', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:09:06,479 INFO [11 s] Files: ['archive', 'downloads.htm', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:09:07,481 INFO [12 s] Files: ['archive', 'export_investment_2025-06-30.csv']
+2025-06-30 18:09:07,484 INFO ✅ Found final CSV: export_investment_2025-06-30.csv
+2025-06-30 18:09:07,485 INFO New Name of file nigeria_health_direct_20250630_180907.csv
+2025-06-30 18:09:07,485 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_direct_20250630_180907.csv
+2025-06-30 18:09:07,487 INFO 🔁 Tab 'funds' download attempt 1/3
+2025-06-30 18:09:07,708 INFO 📑 switched → Funds tab
+2025-06-30 18:09:08,709 INFO ⬇️  funds CSV attempt 1/3
+2025-06-30 18:09:10,183 INFO [0 s] Files: ['archive', 'export_fund_2025-06-30.csv.crdownload', 'nigeria_health_direct_20250630_180907.csv']
+2025-06-30 18:09:11,185 INFO [1 s] Files: ['archive', 'export_fund_2025-06-30.csv', 'nigeria_health_direct_20250630_180907.csv']
+2025-06-30 18:09:11,187 INFO ✅ Found final CSV: export_fund_2025-06-30.csv
+2025-06-30 18:09:11,187 INFO New Name of file nigeria_health_funds_20250630_180911.csv
+2025-06-30 18:09:11,187 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_funds_20250630_180911.csv
+2025-06-30 18:09:11,188 INFO 🔁 Tab 'underlying' download attempt 1/3
+2025-06-30 18:09:11,322 INFO 📑 switched → Underlying tab
+2025-06-30 18:09:12,323 INFO ⬇️  underlying CSV attempt 1/3
+2025-06-30 18:09:13,716 INFO [0 s] Files: ['archive', 'export_underlying_2025-06-30.csv.crdownload', 'nigeria_health_direct_20250630_180907.csv', 'nigeria_health_funds_20250630_180911.csv']
+2025-06-30 18:09:14,720 INFO [1 s] Files: ['archive', 'export_underlying_2025-06-30.csv', 'nigeria_health_direct_20250630_180907.csv', 'nigeria_health_funds_20250630_180911.csv']
+2025-06-30 18:09:14,723 INFO ✅ Found final CSV: export_underlying_2025-06-30.csv
+2025-06-30 18:09:14,723 INFO New Name of file nigeria_health_underlying_20250630_180914.csv
+2025-06-30 18:09:14,724 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_underlying_20250630_180914.csv
+2025-06-30 18:10:48,498 INFO 🚀 Starting BII scrape
+2025-06-30 18:10:48,498 INFO Filters → {"country": "Nigeria", "reporting_org": "UNICEF", "sector": "Health", "start_year": 2015, "end_year": 2022}
+2025-06-30 18:10:58,252 INFO patching driver executable C:\Users\amnaj\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-30 18:11:05,438 INFO 🍪 Cookie banner accepted
+2025-06-30 18:11:05,611 INFO ❌ Subscription popup closed
+2025-06-30 18:11:06,204 INFO 🌍 country selected: Nigeria
+2025-06-30 18:11:06,677 INFO ✅ Selected country filter(s): ['Nigeria']
+2025-06-30 18:11:07,210 INFO 🏗️ sector selected: Health
+2025-06-30 18:11:07,629 INFO ✅ Selected sector filter(s): ['Health']
+2025-06-30 18:11:07,788 INFO ⏱️ Start date 01/01/2015
+2025-06-30 18:11:07,990 INFO ⏱️ End date 31/12/2022
+2025-06-30 18:11:09,191 INFO 🔍 Clicking the Search button …
+2025-06-30 18:11:09,364 INFO ✅ Search completed and CSV download is now available
+2025-06-30 18:11:09,364 INFO 🔁 Tab 'direct' download attempt 1/3
+2025-06-30 18:11:09,365 INFO ⬇️  direct CSV attempt 1/3
+2025-06-30 18:11:11,574 ERROR ❌ direct tab failed attempt 1: name 'StaleElementReferenceException' is not defined
+2025-06-30 18:11:13,575 INFO 🔁 Tab 'direct' download attempt 2/3
+2025-06-30 18:11:13,577 INFO ⬇️  direct CSV attempt 1/3
+2025-06-30 18:11:15,239 INFO [0 s] Files: ['archive', 'downloads.htm.crdownload']
+2025-06-30 18:11:16,242 INFO [1 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm.crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:11:17,248 INFO [2 s] Files: ['archive', 'downloads.htm (1).crdownload', 'export_investment_2025-06-30.csv']
+2025-06-30 18:11:18,250 INFO [3 s] Files: ['archive', 'export_investment_2025-06-30.csv']
+2025-06-30 18:11:18,251 INFO ✅ Found final CSV: export_investment_2025-06-30.csv
+2025-06-30 18:11:18,252 INFO New Name of file nigeria_health_direct_20250630_181118.csv
+2025-06-30 18:11:18,252 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_direct_20250630_181118.csv
+2025-06-30 18:11:18,253 INFO 🔁 Tab 'funds' download attempt 1/3
+2025-06-30 18:11:18,504 INFO 📑 switched → Funds tab
+2025-06-30 18:11:19,505 INFO ⬇️  funds CSV attempt 1/3
+2025-06-30 18:11:21,278 INFO [0 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm.crdownload', 'export_fund_2025-06-30.csv.crdownload', 'nigeria_health_direct_20250630_181118.csv']
+2025-06-30 18:11:22,281 INFO [1 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm.crdownload', 'export_fund_2025-06-30.csv', 'nigeria_health_direct_20250630_181118.csv']
+2025-06-30 18:11:23,284 INFO [2 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm.crdownload', 'export_fund_2025-06-30.csv', 'nigeria_health_direct_20250630_181118.csv']
+2025-06-30 18:11:24,287 INFO [3 s] Files: ['archive', 'export_fund_2025-06-30.csv', 'nigeria_health_direct_20250630_181118.csv']
+2025-06-30 18:11:24,289 INFO ✅ Found final CSV: export_fund_2025-06-30.csv
+2025-06-30 18:11:24,289 INFO New Name of file nigeria_health_funds_20250630_181124.csv
+2025-06-30 18:11:24,290 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_funds_20250630_181124.csv
+2025-06-30 18:11:24,291 INFO 🔁 Tab 'underlying' download attempt 1/3
+2025-06-30 18:11:24,427 INFO 📑 switched → Underlying tab
+2025-06-30 18:11:25,428 INFO ⬇️  underlying CSV attempt 1/3
+2025-06-30 18:11:26,907 INFO [0 s] Files: ['archive', 'export_underlying_2025-06-30.csv.crdownload', 'nigeria_health_direct_20250630_181118.csv', 'nigeria_health_funds_20250630_181124.csv']
+2025-06-30 18:11:27,911 INFO [1 s] Files: ['archive', 'export_underlying_2025-06-30.csv', 'nigeria_health_direct_20250630_181118.csv', 'nigeria_health_funds_20250630_181124.csv']
+2025-06-30 18:11:27,915 INFO ✅ Found final CSV: export_underlying_2025-06-30.csv
+2025-06-30 18:11:27,916 INFO New Name of file nigeria_health_underlying_20250630_181127.csv
+2025-06-30 18:11:27,917 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_underlying_20250630_181127.csv
+2025-06-30 18:11:59,066 INFO 🚀 Starting BII scrape
+2025-06-30 18:11:59,067 INFO Filters → {"country": "Nigeria", "reporting_org": "UNICEF", "sector": "Health", "start_year": 2015, "end_year": 2025}
+2025-06-30 18:12:09,429 INFO patching driver executable C:\Users\amnaj\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-30 18:12:16,746 INFO 🍪 Cookie banner accepted
+2025-06-30 18:12:16,905 INFO ❌ Subscription popup closed
+2025-06-30 18:12:17,468 INFO 🌍 country selected: Nigeria
+2025-06-30 18:12:17,912 INFO ✅ Selected country filter(s): ['Nigeria']
+2025-06-30 18:12:18,414 INFO 🏗️ sector selected: Health
+2025-06-30 18:12:18,833 INFO ✅ Selected sector filter(s): ['Health']
+2025-06-30 18:12:18,985 INFO ⏱️ Start date 01/01/2015
+2025-06-30 18:12:19,127 INFO ⏱️ End date 31/12/2025
+2025-06-30 18:12:20,328 INFO 🔍 Clicking the Search button …
+2025-06-30 18:12:20,514 INFO ✅ Search completed and CSV download is now available
+2025-06-30 18:12:20,515 INFO 🔁 Tab 'direct' download attempt 1/3
+2025-06-30 18:12:20,515 INFO ⬇️  direct CSV attempt 1/3
+2025-06-30 18:12:22,757 ERROR ❌ direct tab failed attempt 1: name 'StaleElementReferenceException' is not defined
+2025-06-30 18:12:24,758 INFO 🔁 Tab 'direct' download attempt 2/3
+2025-06-30 18:12:24,759 INFO ⬇️  direct CSV attempt 1/3
+2025-06-30 18:12:27,050 ERROR ❌ direct tab failed attempt 2: name 'StaleElementReferenceException' is not defined
+2025-06-30 18:12:29,051 INFO 🔁 Tab 'direct' download attempt 3/3
+2025-06-30 18:12:29,051 INFO ⬇️  direct CSV attempt 1/3
+2025-06-30 18:12:31,232 ERROR ❌ direct tab failed attempt 3: name 'StaleElementReferenceException' is not defined
+2025-06-30 18:12:33,233 ERROR ❌ direct tab failed: Message: ❌ Failed to download from direct tab after 3 retries.
+
+2025-06-30 18:12:33,233 INFO 🔁 Tab 'funds' download attempt 1/3
+2025-06-30 18:12:33,564 INFO 📑 switched → Funds tab
+2025-06-30 18:12:34,564 INFO ⬇️  funds CSV attempt 1/3
+2025-06-30 18:12:40,229 INFO [0 s] Files: ['archive']
+2025-06-30 18:12:41,233 INFO [1 s] Files: ['archive', 'export_fund_2025-06-30.csv']
+2025-06-30 18:12:41,239 INFO ✅ Found final CSV: export_fund_2025-06-30.csv
+2025-06-30 18:12:41,240 INFO New Name of file nigeria_health_funds_20250630_181241.csv
+2025-06-30 18:12:41,242 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_funds_20250630_181241.csv
+2025-06-30 18:12:41,247 INFO 🔁 Tab 'underlying' download attempt 1/3
+2025-06-30 18:12:41,455 INFO 📑 switched → Underlying tab
+2025-06-30 18:12:42,456 INFO ⬇️  underlying CSV attempt 1/3
+2025-06-30 18:12:43,680 INFO [0 s] Files: ['archive', 'nigeria_health_funds_20250630_181241.csv']
+2025-06-30 18:12:44,681 INFO [1 s] Files: ['archive', 'nigeria_health_funds_20250630_181241.csv']
+2025-06-30 18:12:45,684 INFO [2 s] Files: ['archive', 'export_underlying_2025-06-30.csv.crdownload', 'nigeria_health_funds_20250630_181241.csv']
+2025-06-30 18:12:46,687 INFO [3 s] Files: ['archive', 'export_underlying_2025-06-30.csv', 'nigeria_health_funds_20250630_181241.csv']
+2025-06-30 18:12:46,693 INFO ✅ Found final CSV: export_underlying_2025-06-30.csv
+2025-06-30 18:12:46,694 INFO New Name of file nigeria_health_underlying_20250630_181246.csv
+2025-06-30 18:12:46,695 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_underlying_20250630_181246.csv
+2025-06-30 18:13:33,963 INFO 🚀 Starting BII scrape
+2025-06-30 18:13:33,964 INFO Filters → {"country": "Nigeria", "reporting_org": "UNICEF", "sector": "Health", "start_year": 2015, "end_year": 2025}
+2025-06-30 18:13:43,161 INFO patching driver executable C:\Users\amnaj\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-30 18:13:49,785 INFO 🍪 Cookie banner accepted
+2025-06-30 18:13:49,952 INFO ❌ Subscription popup closed
+2025-06-30 18:13:50,538 INFO 🌍 country selected: Nigeria
+2025-06-30 18:13:51,015 INFO ✅ Selected country filter(s): ['Nigeria']
+2025-06-30 18:13:51,611 INFO 🏗️ sector selected: Health
+2025-06-30 18:13:52,120 INFO ✅ Selected sector filter(s): ['Health']
+2025-06-30 18:13:52,269 INFO ⏱️ Start date 01/01/2015
+2025-06-30 18:13:52,457 INFO ⏱️ End date 31/12/2025
+2025-06-30 18:13:53,658 INFO 🔍 Clicking the Search button …
+2025-06-30 18:13:53,821 INFO ✅ Search completed and CSV download is now available
+2025-06-30 18:13:53,822 INFO 🔁 Tab 'direct' download attempt 1/3
+2025-06-30 18:13:53,822 INFO ⬇️  direct CSV attempt 1/3
+2025-06-30 18:13:56,012 ERROR ❌ direct tab failed attempt 1: name 'StaleElementReferenceException' is not defined
+2025-06-30 18:13:58,013 INFO 🔁 Tab 'direct' download attempt 2/3
+2025-06-30 18:13:58,013 INFO ⬇️  direct CSV attempt 1/3
+2025-06-30 18:14:00,283 ERROR ❌ direct tab failed attempt 2: name 'StaleElementReferenceException' is not defined
+2025-06-30 18:14:02,284 INFO 🔁 Tab 'direct' download attempt 3/3
+2025-06-30 18:14:02,285 INFO ⬇️  direct CSV attempt 1/3
+2025-06-30 18:14:06,556 INFO [0 s] Files: ['archive']
+2025-06-30 18:14:07,631 INFO [1 s] Files: ['archive', 'export_investment_2025-06-30.csv']
+2025-06-30 18:14:07,697 INFO ✅ Found final CSV: export_investment_2025-06-30.csv
+2025-06-30 18:14:07,699 INFO New Name of file nigeria_health_direct_20250630_181407.csv
+2025-06-30 18:14:07,700 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_direct_20250630_181407.csv
+2025-06-30 18:14:07,703 INFO 🔁 Tab 'funds' download attempt 1/3
+2025-06-30 18:14:08,633 INFO 📑 switched → Funds tab
+2025-06-30 18:14:09,635 INFO ⬇️  funds CSV attempt 1/3
+2025-06-30 18:14:11,277 INFO [0 s] Files: ['archive', 'export_fund_2025-06-30.csv.crdownload', 'nigeria_health_direct_20250630_181407.csv']
+2025-06-30 18:14:12,285 INFO [1 s] Files: ['archive', 'export_fund_2025-06-30.csv', 'nigeria_health_direct_20250630_181407.csv']
+2025-06-30 18:14:12,287 INFO ✅ Found final CSV: export_fund_2025-06-30.csv
+2025-06-30 18:14:12,287 INFO New Name of file nigeria_health_funds_20250630_181412.csv
+2025-06-30 18:14:12,288 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_funds_20250630_181412.csv
+2025-06-30 18:14:12,290 INFO 🔁 Tab 'underlying' download attempt 1/3
+2025-06-30 18:14:13,029 INFO 📑 switched → Underlying tab
+2025-06-30 18:14:14,033 INFO ⬇️  underlying CSV attempt 1/3
+2025-06-30 18:14:16,524 INFO [0 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm.crdownload', 'nigeria_health_direct_20250630_181407.csv', 'nigeria_health_funds_20250630_181412.csv']
+2025-06-30 18:14:17,526 INFO [1 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm.crdownload', 'export_underlying_2025-06-30.csv', 'nigeria_health_direct_20250630_181407.csv', 'nigeria_health_funds_20250630_181412.csv']
+2025-06-30 18:14:18,527 INFO [2 s] Files: ['archive', 'downloads.htm.crdownload', 'export_underlying_2025-06-30.csv', 'nigeria_health_direct_20250630_181407.csv', 'nigeria_health_funds_20250630_181412.csv']
+2025-06-30 18:14:19,530 INFO [3 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm.crdownload', 'export_underlying_2025-06-30.csv', 'nigeria_health_direct_20250630_181407.csv', 'nigeria_health_funds_20250630_181412.csv']
+2025-06-30 18:14:20,532 INFO [4 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm.crdownload', 'export_underlying_2025-06-30.csv', 'nigeria_health_direct_20250630_181407.csv', 'nigeria_health_funds_20250630_181412.csv']
+2025-06-30 18:14:21,534 INFO [5 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm.crdownload', 'export_underlying_2025-06-30.csv', 'nigeria_health_direct_20250630_181407.csv', 'nigeria_health_funds_20250630_181412.csv']
+2025-06-30 18:14:22,536 INFO [6 s] Files: ['archive', 'downloads.htm (1).crdownload', 'downloads.htm.crdownload', 'export_underlying_2025-06-30.csv', 'nigeria_health_direct_20250630_181407.csv', 'nigeria_health_funds_20250630_181412.csv']
+2025-06-30 18:14:23,539 INFO [7 s] Files: ['archive', 'downloads.htm (1).crdownload', 'export_underlying_2025-06-30.csv', 'nigeria_health_direct_20250630_181407.csv', 'nigeria_health_funds_20250630_181412.csv']
+2025-06-30 18:14:24,544 INFO [8 s] Files: ['archive', 'export_underlying_2025-06-30.csv', 'nigeria_health_direct_20250630_181407.csv', 'nigeria_health_funds_20250630_181412.csv']
+2025-06-30 18:14:24,545 INFO ✅ Found final CSV: export_underlying_2025-06-30.csv
+2025-06-30 18:14:24,546 INFO New Name of file nigeria_health_underlying_20250630_181424.csv
+2025-06-30 18:14:24,546 INFO Renamed Name of file E:\Portfolio\code_ver7\bii_downloads\nigeria_health_underlying_20250630_181424.csv
+2025-07-01 17:17:12,441 INFO 🚀 Starting BII scrape
+2025-07-01 17:17:12,443 INFO Filters → {"country": "Columbia", "reporting_org": "UNICEF", "sector": "Health", "start_year": 2015, "end_year": 2025}
+2025-07-01 17:17:21,517 INFO patching driver executable C:\Users\amnaj\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
