@@ -1,0 +1,31 @@
+2025-06-29 20:08:34,744 - INFO - [START] Running OECD Data Explorer scraper
+2025-06-29 20:08:43,030 - INFO - [STEP 1] Selecting Sector...
+2025-06-29 20:08:43,031 - INFO - [INFO] Selecting sector: Health
+2025-06-29 20:08:43,032 - INFO - [INFO] Locating all sector buttons...
+2025-06-29 20:08:47,117 - INFO - [INFO] Found 16 sector options. Scanning for match...
+2025-06-29 20:08:47,200 - INFO -   - Found sector: agriculture and fisheries
+2025-06-29 20:08:47,219 - INFO -   - Found sector: development
+2025-06-29 20:08:47,252 - INFO -   - Found sector: economy
+2025-06-29 20:08:47,286 - INFO -   - Found sector: education and skills
+2025-06-29 20:08:47,301 - INFO -   - Found sector: environment and climate change
+2025-06-29 20:08:47,322 - INFO -   - Found sector: finance and investment
+2025-06-29 20:08:47,339 - INFO -   - Found sector: public governance
+2025-06-29 20:08:47,360 - INFO -   - Found sector: health
+2025-06-29 20:08:47,360 - INFO - [INFO] Clicking sector: health
+2025-06-29 20:08:48,093 - INFO - [STEP 2] Setting Time Period...
+2025-06-29 20:08:48,093 - INFO - [INFO] Attempting to set time period: 2015 to 2022
+2025-06-29 20:08:48,119 - INFO - [WARN] Time period panel not available for this sector. Skipping year selection.
+2025-06-29 20:08:48,120 - INFO - [STEP 3] Selecting Countries...
+2025-06-29 20:08:48,120 - INFO - [INFO] Selecting countries: Nigeria
+2025-06-29 20:08:56,412 - INFO - [INFO] Typed country name: Nigeria (NGA)
+2025-06-29 20:08:57,313 - INFO - [INFO] ✅ Selected country: Nigeria (NGA)
+2025-06-29 20:09:07,314 - INFO - [STEP 4] Downloading Filtered Datasets...
+2025-06-29 20:09:07,315 - INFO - [INFO] Starting dataset download loop...
+2025-06-29 20:09:07,316 - INFO - [INFO] Trying file link #1
+2025-06-29 20:09:07,662 - INFO - [INFO] Opened file detail page #1
+2025-06-29 20:09:10,854 - INFO - [INFO] Clicked download icon
+2025-06-29 20:09:11,436 - INFO - [INFO] Clicked CSV download option
+2025-06-29 20:09:12,614 - INFO - [INFO] Returning to file list...
+2025-06-29 20:09:23,100 - ERROR - ❌ [INFO] No more files found or error occurred: 
+2025-06-29 20:09:23,107 - INFO - [DONE] All available datasets downloaded and processed.
+2025-06-29 20:09:23,108 - INFO - [EXIT] Closing browser

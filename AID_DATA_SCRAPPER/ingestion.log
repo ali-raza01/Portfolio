@@ -1,0 +1,334 @@
+2025-06-29 20:05:31,978 - INFO - 📥 Ingesting 10 rows into project_data
+2025-06-29 20:05:32,293 - INFO - ✅ Database already exists.
+2025-06-29 20:05:32,419 - INFO - ℹ️ project_data table already exists.
+2025-06-29 20:05:32,461 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-29 20:05:32,523 - INFO - 🚀 Ingested 10 rows into project_data.
+2025-06-29 20:05:32,523 - INFO - 📥 Ingested data successfully.
+2025-06-29 20:08:33,442 - INFO - 📥 Ingesting 4405 rows into project_data
+2025-06-29 20:08:33,654 - INFO - ✅ Database already exists.
+2025-06-29 20:08:33,966 - INFO - ℹ️ project_data table already exists.
+2025-06-29 20:08:34,012 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-29 20:08:34,740 - INFO - 🚀 Ingested 4405 rows into project_data.
+2025-06-29 20:08:34,741 - INFO - 📦 Archived: ghed_downloads\archive\Nigeria_2015_2022_20250629_200728.xlsx
+2025-06-29 20:09:25,447 - INFO - 📄 Starting OECD CSV parsing in: oecd_downloads
+2025-06-29 20:09:25,450 - INFO - 📄 Parsing OECD CSV: OECD.ENV.EPI,DSD_EXP_MORSC@DF_EXP_MORSC,1.0+NGA.A.DALY.10P3HB.PM_2_5_OUT._T._T.csv
+2025-06-29 20:09:25,475 - INFO - 🔍 Loaded 10 rows from OECD.ENV.EPI,DSD_EXP_MORSC@DF_EXP_MORSC,1.0+NGA.A.DALY.10P3HB.PM_2_5_OUT._T._T.csv
+2025-06-29 20:09:25,515 - INFO - ✅ Mapped 10 rows for ingestion from OECD.ENV.EPI,DSD_EXP_MORSC@DF_EXP_MORSC,1.0+NGA.A.DALY.10P3HB.PM_2_5_OUT._T._T.csv
+2025-06-29 20:09:25,516 - INFO - 🧩 Columns in mapped data: ['programme_id', 'project_id', 'project_title', 'project_status', 'country_code', 'country', 'year_active', 'outcome_indicator_name', 'outcome_indicator_value', 'data_quality_score', 'indicator_values', 'need_indicator_name', 'beneficiary_disaggregation', 'data_standard', 'benchmark_comparison', 'source']
+2025-06-29 20:09:25,517 - INFO - 📥 Ingesting 10 rows into project_data
+2025-06-29 20:09:25,612 - INFO - ✅ Database already exists.
+2025-06-29 20:09:25,728 - INFO - ℹ️ project_data table already exists.
+2025-06-29 20:09:25,764 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-29 20:09:25,796 - INFO - 🚀 Ingested 10 rows into project_data.
+2025-06-29 20:09:25,799 - INFO - 📦 Archived OECD file to: oecd_downloads\archive\OECD.ENV.EPI,DSD_EXP_MORSC@DF_EXP_MORSC,1.0+NGA.A.DALY.10P3HB.PM_2_5_OUT._T._T.csv
+2025-06-29 20:10:01,232 - INFO - ⚠️ Failed to load CSV: argument of type 'method' is not iterable
+2025-06-29 20:10:05,386 - INFO - 📥 Ingesting 25 rows into project_data
+2025-06-29 20:10:05,470 - INFO - ✅ Database already exists.
+2025-06-29 20:10:05,549 - INFO - ℹ️ project_data table already exists.
+2025-06-29 20:10:05,572 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-29 20:10:05,590 - INFO - 🚀 Ingested 25 rows into project_data.
+2025-06-29 20:17:14,809 - INFO - Moved ingested file to archive: E:\Portfolio\code_ver7\fcdo_downloads\archive\country-Nigeria_reporting_org-UNICEF_sector-Health_start_year-2015_end_year-2022_20250629_201714.txt
+2025-06-29 20:34:34,537 - INFO - 📥 Ingesting 3 rows into project_data
+2025-06-29 20:34:34,782 - INFO - ✅ Database already exists.
+2025-06-29 20:34:34,938 - INFO - ℹ️ project_data table already exists.
+2025-06-29 20:34:34,985 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-29 20:34:35,071 - INFO - 🚀 Ingested 3 rows into project_data.
+2025-06-29 20:34:35,071 - INFO - ✅ Ingested Direct CSV → nigeria_health_direct_20250629_203423.csv
+2025-06-29 20:34:35,073 - INFO - 📦 Archived → nigeria_health_direct_20250629_203423.csv
+2025-06-29 20:34:35,186 - INFO - 📥 Ingesting 15 rows into project_data
+2025-06-29 20:34:35,324 - INFO - ✅ Database already exists.
+2025-06-29 20:34:35,443 - INFO - ℹ️ project_data table already exists.
+2025-06-29 20:34:35,484 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-29 20:34:35,542 - INFO - 🚀 Ingested 15 rows into project_data.
+2025-06-29 20:34:35,580 - INFO - ✅ Ingested Fund CSV → nigeria_health_funds_20250629_203430.csv
+2025-06-29 20:34:35,583 - INFO - 📦 Archived → nigeria_health_funds_20250629_203430.csv
+2025-06-29 20:34:35,640 - INFO - 📥 Ingesting 8 rows into project_data
+2025-06-29 20:34:35,738 - INFO - ✅ Database already exists.
+2025-06-29 20:34:35,818 - INFO - ℹ️ project_data table already exists.
+2025-06-29 20:34:35,842 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-29 20:34:35,858 - INFO - 🚀 Ingested 8 rows into project_data.
+2025-06-29 20:34:35,858 - INFO - ✅ Ingested Underlying CSV → nigeria_health_underlying_20250629_203433.csv
+2025-06-29 20:34:35,859 - INFO - 📦 Archived → nigeria_health_underlying_20250629_203433.csv
+2025-06-29 20:50:03,359 - INFO - Fetching JSON: https://fcdo.iati.cloud/search/activity/?q=iati_identifier:GB-GOV-1-300495&fl=*&format=json
+2025-06-29 20:50:04,197 - INFO - 📥 Ingesting 1 rows into project_data
+2025-06-29 20:50:04,432 - INFO - ✅ Database already exists.
+2025-06-29 20:50:04,581 - INFO - ℹ️ project_data table already exists.
+2025-06-29 20:50:04,630 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-29 20:50:04,728 - INFO - 🚀 Ingested 1 rows into project_data.
+2025-06-29 20:50:04,728 - INFO - Fetching JSON: https://fcdo.iati.cloud/search/activity/?q=iati_identifier:GB-GOV-1-300708&fl=*&format=json
+2025-06-29 20:50:05,411 - INFO - 📥 Ingesting 1 rows into project_data
+2025-06-29 20:50:05,530 - INFO - ✅ Database already exists.
+2025-06-29 20:50:05,629 - INFO - ℹ️ project_data table already exists.
+2025-06-29 20:50:05,663 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-29 20:50:05,708 - INFO - 🚀 Ingested 1 rows into project_data.
+2025-06-29 20:50:05,715 - INFO - Fetching JSON: https://fcdo.iati.cloud/search/activity/?q=iati_identifier:GB-GOV-1-301362&fl=*&format=json
+2025-06-29 20:50:06,245 - INFO - 📥 Ingesting 1 rows into project_data
+2025-06-29 20:50:06,385 - INFO - ✅ Database already exists.
+2025-06-29 20:50:06,458 - INFO - ℹ️ project_data table already exists.
+2025-06-29 20:50:06,481 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-29 20:50:06,504 - INFO - 🚀 Ingested 1 rows into project_data.
+2025-06-29 20:50:06,505 - INFO - Fetching JSON: https://fcdo.iati.cloud/search/activity/?q=iati_identifier:GB-1-205238&fl=*&format=json
+2025-06-29 20:50:07,181 - INFO - 📥 Ingesting 1 rows into project_data
+2025-06-29 20:50:07,270 - INFO - ✅ Database already exists.
+2025-06-29 20:50:07,348 - INFO - ℹ️ project_data table already exists.
+2025-06-29 20:50:07,369 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-29 20:50:07,396 - INFO - 🚀 Ingested 1 rows into project_data.
+2025-06-29 20:50:07,396 - INFO - Fetching JSON: https://fcdo.iati.cloud/search/activity/?q=iati_identifier:GB-GOV-1-301532&fl=*&format=json
+2025-06-29 20:50:08,094 - INFO - 📥 Ingesting 1 rows into project_data
+2025-06-29 20:50:08,176 - INFO - ✅ Database already exists.
+2025-06-29 20:50:08,249 - INFO - ℹ️ project_data table already exists.
+2025-06-29 20:50:08,273 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-29 20:50:08,302 - INFO - 🚀 Ingested 1 rows into project_data.
+2025-06-29 20:50:08,303 - INFO - Fetching JSON: https://fcdo.iati.cloud/search/activity/?q=iati_identifier:GB-GOV-3-CSSF&fl=*&format=json
+2025-06-29 20:50:08,908 - INFO - 📥 Ingesting 1 rows into project_data
+2025-06-29 20:50:09,043 - INFO - ✅ Database already exists.
+2025-06-29 20:50:09,260 - INFO - ℹ️ project_data table already exists.
+2025-06-29 20:50:09,302 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-29 20:50:09,444 - INFO - 🚀 Ingested 1 rows into project_data.
+2025-06-29 20:50:09,445 - INFO - Fetching JSON: https://fcdo.iati.cloud/search/activity/?q=iati_identifier:GB-GOV-1-400118&fl=*&format=json
+2025-06-29 20:50:11,028 - INFO - 📥 Ingesting 1 rows into project_data
+2025-06-29 20:50:11,157 - INFO - ✅ Database already exists.
+2025-06-29 20:50:11,259 - INFO - ℹ️ project_data table already exists.
+2025-06-29 20:50:11,293 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-29 20:50:11,323 - INFO - 🚀 Ingested 1 rows into project_data.
+2025-06-29 20:50:11,324 - INFO - Fetching JSON: https://fcdo.iati.cloud/search/activity/?q=iati_identifier:GB-GOV-1-301049&fl=*&format=json
+2025-06-29 20:50:11,873 - INFO - 📥 Ingesting 1 rows into project_data
+2025-06-29 20:50:12,012 - INFO - ✅ Database already exists.
+2025-06-29 20:50:12,102 - INFO - ℹ️ project_data table already exists.
+2025-06-29 20:50:12,128 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-29 20:50:12,156 - INFO - 🚀 Ingested 1 rows into project_data.
+2025-06-29 20:50:12,158 - INFO - Moved ingested file to archive: E:\Portfolio\code_ver7\fcdo_downloads\archive\country-Nigeria_reporting_org-UNICEF_sector-Health_start_year-2015_end_year-2022_20250629_205003.txt
+2025-06-29 22:01:37,099 - INFO - 📄 Parsing CSV: https%3A%2F%2Fd-portal.org%2Fq.csv%3Faid%3DUS-GOV-1-72062018F00006.csv
+2025-06-29 22:01:37,292 - INFO - 📥 Ingesting 1 rows into project_data
+2025-06-29 22:01:37,487 - INFO - ✅ Database already exists.
+2025-06-29 22:01:37,551 - INFO - ℹ️ project_data table already exists.
+2025-06-29 22:01:37,672 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-29 22:01:37,722 - INFO - 🚀 Ingested 1 rows into project_data.
+2025-06-29 22:01:37,722 - INFO - ✅ Ingested: https%3A%2F%2Fd-portal.org%2Fq.csv%3Faid%3DUS-GOV-1-72062018F00006.csv
+2025-06-29 22:01:37,723 - INFO - 📦 Moved to archive: iati_downloads\archive\https%3A%2F%2Fd-portal.org%2Fq.csv%3Faid%3DUS-GOV-1-72062018F00006.csv
+2025-06-29 22:04:53,598 - INFO - 📄 Parsing CSV: https%3A%2F%2Fd-portal.org%2Fq.csv%3Faid%3DUS-GOV-1-72062018F00006.csv
+2025-06-29 22:04:53,628 - INFO - 📥 Ingesting 1 rows into project_data
+2025-06-29 22:04:53,699 - INFO - ✅ Database already exists.
+2025-06-29 22:04:53,755 - INFO - ℹ️ project_data table already exists.
+2025-06-29 22:04:53,769 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-29 22:04:53,792 - INFO - 🚀 Ingested 1 rows into project_data.
+2025-06-29 22:04:53,793 - INFO - ✅ Ingested: https%3A%2F%2Fd-portal.org%2Fq.csv%3Faid%3DUS-GOV-1-72062018F00006.csv
+2025-06-29 22:04:53,793 - INFO - 📦 Moved to archive: iati_downloads\archive\https%3A%2F%2Fd-portal.org%2Fq.csv%3Faid%3DUS-GOV-1-72062018F00006.csv
+2025-06-30 15:14:52,668 - INFO - ⚠️ Failed to load CSV: argument of type 'method' is not iterable
+2025-06-30 15:20:58,532 - INFO - 📥 Ingesting 1000 rows into project_data
+2025-06-30 15:20:58,823 - INFO - ✅ Database already exists.
+2025-06-30 15:20:58,954 - INFO - ℹ️ project_data table already exists.
+2025-06-30 15:20:59,048 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-30 15:20:59,332 - INFO - 🚀 Ingested 1000 rows into project_data.
+2025-06-30 15:20:59,334 - INFO - 📦 Moved file to archive: foreign_assistance_downloads\archive\Country Name-Afghanistan_US Sector Name-Health_20250630_151449.csv
+2025-06-30 15:27:08,882 - INFO - 📄 Parsing CSV: https%3A%2F%2Fd-portal.org%2Fq.csv%3Faid%3DDAC-1601-INV-049397.csv
+2025-06-30 15:27:09,437 - INFO - 📥 Ingesting 1 rows into project_data
+2025-06-30 15:27:09,739 - INFO - ✅ Database already exists.
+2025-06-30 15:27:09,835 - INFO - ℹ️ project_data table already exists.
+2025-06-30 15:27:09,879 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-30 15:27:09,935 - INFO - 🚀 Ingested 1 rows into project_data.
+2025-06-30 15:27:09,935 - INFO - ✅ Ingested: https%3A%2F%2Fd-portal.org%2Fq.csv%3Faid%3DDAC-1601-INV-049397.csv
+2025-06-30 15:27:09,936 - INFO - 📦 Moved to archive: iati_downloads\archive\https%3A%2F%2Fd-portal.org%2Fq.csv%3Faid%3DDAC-1601-INV-049397.csv
+2025-06-30 15:28:06,954 - INFO - 📥 Ingesting 1000 rows into project_data
+2025-06-30 15:28:07,303 - INFO - ✅ Database already exists.
+2025-06-30 15:28:07,469 - INFO - ℹ️ project_data table already exists.
+2025-06-30 15:28:07,544 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-30 15:28:07,868 - INFO - 🚀 Ingested 1000 rows into project_data.
+2025-06-30 15:28:07,871 - INFO - 📦 Moved file to archive: foreign_assistance_downloads\archive\Country Name-Afghanistan_US Sector Name-Health_20250630_152804.csv
+2025-06-30 15:30:02,036 - INFO - 📥 Ingesting 138 rows into project_data
+2025-06-30 15:30:02,276 - INFO - ✅ Database already exists.
+2025-06-30 15:30:02,379 - INFO - ℹ️ project_data table already exists.
+2025-06-30 15:30:02,417 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-30 15:30:02,527 - INFO - 🚀 Ingested 138 rows into project_data.
+2025-06-30 15:30:02,528 - INFO - ✅ Ingested Fund CSV → afghanistan_health_funds_20250630_152954.csv
+2025-06-30 15:30:02,530 - INFO - 📦 Archived → afghanistan_health_funds_20250630_152954.csv
+2025-06-30 15:30:02,670 - INFO - 📥 Ingesting 1319 rows into project_data
+2025-06-30 15:30:02,801 - INFO - ✅ Database already exists.
+2025-06-30 15:30:02,903 - INFO - ℹ️ project_data table already exists.
+2025-06-30 15:30:02,951 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-30 15:30:03,163 - INFO - 🚀 Ingested 1319 rows into project_data.
+2025-06-30 15:30:03,163 - INFO - ✅ Ingested Underlying CSV → afghanistan_health_underlying_20250630_153001.csv
+2025-06-30 15:30:03,165 - INFO - 📦 Archived → afghanistan_health_underlying_20250630_153001.csv
+2025-06-30 15:45:49,596 - INFO - 📥 Ingesting 15 rows into project_data
+2025-06-30 15:45:49,907 - INFO - ✅ Database already exists.
+2025-06-30 15:45:50,074 - INFO - ℹ️ project_data table already exists.
+2025-06-30 15:45:50,149 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-30 15:45:50,253 - INFO - 🚀 Ingested 15 rows into project_data.
+2025-06-30 15:45:50,254 - INFO - ✅ Ingested Fund CSV → nigeria_health_funds_20250630_154543.csv
+2025-06-30 15:45:50,256 - INFO - 📦 Archived → nigeria_health_funds_20250630_154543.csv
+2025-06-30 15:45:50,322 - INFO - 📥 Ingesting 8 rows into project_data
+2025-06-30 15:45:50,455 - INFO - ✅ Database already exists.
+2025-06-30 15:45:50,598 - INFO - ℹ️ project_data table already exists.
+2025-06-30 15:45:50,637 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-30 15:45:50,668 - INFO - 🚀 Ingested 8 rows into project_data.
+2025-06-30 15:45:50,669 - INFO - ✅ Ingested Underlying CSV → nigeria_health_underlying_20250630_154548.csv
+2025-06-30 15:45:50,671 - INFO - 📦 Archived → nigeria_health_underlying_20250630_154548.csv
+2025-06-30 15:47:30,291 - INFO - 📥 Ingesting 3 rows into project_data
+2025-06-30 15:47:30,417 - INFO - ✅ Database already exists.
+2025-06-30 15:47:30,502 - INFO - ℹ️ project_data table already exists.
+2025-06-30 15:47:30,539 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-30 15:47:30,578 - INFO - 🚀 Ingested 3 rows into project_data.
+2025-06-30 15:47:30,579 - INFO - ✅ Ingested Direct CSV → nigeria_health_direct_20250630_154722.csv
+2025-06-30 15:47:30,581 - INFO - 📦 Archived → nigeria_health_direct_20250630_154722.csv
+2025-06-30 15:47:30,679 - INFO - 📥 Ingesting 15 rows into project_data
+2025-06-30 15:47:30,924 - INFO - ✅ Database already exists.
+2025-06-30 15:47:31,048 - INFO - ℹ️ project_data table already exists.
+2025-06-30 15:47:31,088 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-30 15:47:31,130 - INFO - 🚀 Ingested 15 rows into project_data.
+2025-06-30 15:47:31,131 - INFO - ✅ Ingested Fund CSV → nigeria_health_funds_20250630_154725.csv
+2025-06-30 15:47:31,134 - INFO - 📦 Archived → nigeria_health_funds_20250630_154725.csv
+2025-06-30 15:47:31,164 - INFO - 📥 Ingesting 8 rows into project_data
+2025-06-30 15:47:31,295 - INFO - ✅ Database already exists.
+2025-06-30 15:47:31,423 - INFO - ℹ️ project_data table already exists.
+2025-06-30 15:47:31,461 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-30 15:47:31,491 - INFO - 🚀 Ingested 8 rows into project_data.
+2025-06-30 15:47:31,492 - INFO - ✅ Ingested Underlying CSV → nigeria_health_underlying_20250630_154729.csv
+2025-06-30 15:47:31,494 - INFO - 📦 Archived → nigeria_health_underlying_20250630_154729.csv
+2025-06-30 15:56:47,264 - INFO - 📥 Ingesting 3 rows into project_data
+2025-06-30 15:56:47,618 - INFO - ✅ Database already exists.
+2025-06-30 15:56:47,773 - INFO - ℹ️ project_data table already exists.
+2025-06-30 15:56:47,835 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-30 15:56:47,930 - INFO - 🚀 Ingested 3 rows into project_data.
+2025-06-30 15:56:47,930 - INFO - ✅ Ingested Direct CSV → nigeria_health_direct_20250630_155231.csv
+2025-06-30 15:56:47,931 - ERROR - ❌ Error processing nigeria_health_direct_20250630_155231.csv: name 'archive_target' is not defined
+2025-06-30 15:57:59,900 - INFO - 📥 Ingesting 3 rows into project_data
+2025-06-30 15:58:00,107 - INFO - ✅ Database already exists.
+2025-06-30 15:58:00,223 - INFO - ℹ️ project_data table already exists.
+2025-06-30 15:58:00,254 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-30 15:58:00,341 - INFO - 🚀 Ingested 3 rows into project_data.
+2025-06-30 15:58:00,342 - INFO - ✅ Ingested Direct CSV → nigeria_health_direct_20250630_155231.csv
+2025-06-30 15:58:00,344 - INFO - 📦 Archived → nigeria_health_direct_20250630_155231.csv
+2025-06-30 15:58:00,460 - INFO - 📥 Ingesting 3 rows into project_data
+2025-06-30 15:58:00,611 - INFO - ✅ Database already exists.
+2025-06-30 15:58:00,852 - INFO - ℹ️ project_data table already exists.
+2025-06-30 15:58:00,893 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-30 15:58:00,941 - INFO - 🚀 Ingested 3 rows into project_data.
+2025-06-30 15:58:00,942 - INFO - ✅ Ingested Direct CSV → nigeria_health_direct_20250630_155639.csv
+2025-06-30 15:58:00,944 - INFO - 📦 Archived → nigeria_health_direct_20250630_155639.csv
+2025-06-30 15:58:01,047 - INFO - 📥 Ingesting 3 rows into project_data
+2025-06-30 15:58:01,232 - INFO - ✅ Database already exists.
+2025-06-30 15:58:01,308 - INFO - ℹ️ project_data table already exists.
+2025-06-30 15:58:01,328 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-30 15:58:01,349 - INFO - 🚀 Ingested 3 rows into project_data.
+2025-06-30 15:58:01,350 - INFO - ✅ Ingested Direct CSV → nigeria_health_direct_20250630_155752.csv
+2025-06-30 15:58:01,351 - INFO - 📦 Archived → nigeria_health_direct_20250630_155752.csv
+2025-06-30 15:58:01,402 - INFO - 📥 Ingesting 15 rows into project_data
+2025-06-30 15:58:01,481 - INFO - ✅ Database already exists.
+2025-06-30 15:58:01,715 - INFO - ℹ️ project_data table already exists.
+2025-06-30 15:58:01,738 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-30 15:58:01,763 - INFO - 🚀 Ingested 15 rows into project_data.
+2025-06-30 15:58:01,763 - INFO - ✅ Ingested Fund CSV → nigeria_health_funds_20250630_155236.csv
+2025-06-30 15:58:01,764 - INFO - 📦 Archived → nigeria_health_funds_20250630_155236.csv
+2025-06-30 15:58:01,811 - INFO - 📥 Ingesting 15 rows into project_data
+2025-06-30 15:58:02,006 - INFO - ✅ Database already exists.
+2025-06-30 15:58:02,183 - INFO - ℹ️ project_data table already exists.
+2025-06-30 15:58:02,202 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-30 15:58:02,225 - INFO - 🚀 Ingested 15 rows into project_data.
+2025-06-30 15:58:02,225 - INFO - ✅ Ingested Fund CSV → nigeria_health_funds_20250630_155643.csv
+2025-06-30 15:58:02,226 - INFO - 📦 Archived → nigeria_health_funds_20250630_155643.csv
+2025-06-30 15:58:02,277 - INFO - 📥 Ingesting 15 rows into project_data
+2025-06-30 15:58:02,364 - INFO - ✅ Database already exists.
+2025-06-30 15:58:02,477 - INFO - ℹ️ project_data table already exists.
+2025-06-30 15:58:02,516 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-30 15:58:02,561 - INFO - 🚀 Ingested 15 rows into project_data.
+2025-06-30 15:58:02,562 - INFO - ✅ Ingested Fund CSV → nigeria_health_funds_20250630_155755.csv
+2025-06-30 15:58:02,564 - INFO - 📦 Archived → nigeria_health_funds_20250630_155755.csv
+2025-06-30 15:58:02,595 - INFO - 📥 Ingesting 8 rows into project_data
+2025-06-30 15:58:02,736 - INFO - ✅ Database already exists.
+2025-06-30 15:58:02,891 - INFO - ℹ️ project_data table already exists.
+2025-06-30 15:58:02,932 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-30 15:58:02,963 - INFO - 🚀 Ingested 8 rows into project_data.
+2025-06-30 15:58:02,964 - INFO - ✅ Ingested Underlying CSV → nigeria_health_underlying_20250630_155240.csv
+2025-06-30 15:58:02,966 - INFO - 📦 Archived → nigeria_health_underlying_20250630_155240.csv
+2025-06-30 15:58:03,000 - INFO - 📥 Ingesting 8 rows into project_data
+2025-06-30 15:58:03,123 - INFO - ✅ Database already exists.
+2025-06-30 15:58:03,207 - INFO - ℹ️ project_data table already exists.
+2025-06-30 15:58:03,229 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-30 15:58:03,249 - INFO - 🚀 Ingested 8 rows into project_data.
+2025-06-30 15:58:03,249 - INFO - ✅ Ingested Underlying CSV → nigeria_health_underlying_20250630_155646.csv
+2025-06-30 15:58:03,251 - INFO - 📦 Archived → nigeria_health_underlying_20250630_155646.csv
+2025-06-30 15:58:03,284 - INFO - 📥 Ingesting 8 rows into project_data
+2025-06-30 15:58:03,432 - INFO - ✅ Database already exists.
+2025-06-30 15:58:03,574 - INFO - ℹ️ project_data table already exists.
+2025-06-30 15:58:03,616 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-30 15:58:03,647 - INFO - 🚀 Ingested 8 rows into project_data.
+2025-06-30 15:58:03,648 - INFO - ✅ Ingested Underlying CSV → nigeria_health_underlying_20250630_155759.csv
+2025-06-30 15:58:03,650 - INFO - 📦 Archived → nigeria_health_underlying_20250630_155759.csv
+2025-06-30 16:02:00,700 - WARNING - ⚠️ Duplicate file (by base name) detected, deleting un-ingested copy: nigeria_health_direct_20250630_160152.csv
+2025-06-30 16:02:00,703 - WARNING - ⚠️ Duplicate file (by base name) detected, deleting un-ingested copy: nigeria_health_funds_20250630_160156.csv
+2025-06-30 16:02:00,707 - WARNING - ⚠️ Duplicate file (by base name) detected, deleting un-ingested copy: nigeria_health_underlying_20250630_160159.csv
+2025-06-30 17:04:09,918 - INFO - ⚠️ Failed to load CSV: argument of type 'method' is not iterable
+2025-06-30 17:05:38,873 - INFO - 📥 Ingesting 1000 rows into project_data
+2025-06-30 17:05:39,244 - INFO - ✅ Database already exists.
+2025-06-30 17:05:39,347 - INFO - ℹ️ project_data table already exists.
+2025-06-30 17:05:39,399 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-30 17:05:39,623 - INFO - 🚀 Ingested 1000 rows into project_data.
+2025-06-30 17:05:39,627 - INFO - 📦 Moved file to archive: foreign_assistance_downloads\archive\Country Name-Afghanistan_US Sector Name-Health_20250630_170536.csv
+2025-06-30 17:12:56,032 - INFO - 📥 Ingesting 1000 rows into project_data
+2025-06-30 17:12:56,265 - INFO - ✅ Database already exists.
+2025-06-30 17:12:56,427 - INFO - ℹ️ project_data table already exists.
+2025-06-30 17:12:56,493 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-30 17:12:56,737 - INFO - 🚀 Ingested 1000 rows into project_data.
+2025-06-30 17:12:56,739 - INFO - 📦 Moved file to archive: foreign_assistance_downloads\archive\Country Name-Afghanistan_US Sector Name-Health_20250630_171252.csv
+2025-06-30 17:36:24,610 - INFO - 📥 Ingesting 3 rows into project_data
+2025-06-30 17:36:24,988 - INFO - ✅ Database already exists.
+2025-06-30 17:36:25,234 - INFO - ℹ️ project_data table already exists.
+2025-06-30 17:36:25,366 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-30 17:36:25,552 - INFO - 🚀 Ingested 3 rows into project_data.
+2025-06-30 17:36:25,554 - INFO - ✅ Ingested Direct CSV → nigeria_health_direct_20250630_173610.csv
+2025-06-30 17:36:25,557 - INFO - 📦 Archived → nigeria_health_direct_20250630_173610.csv
+2025-06-30 17:36:25,765 - INFO - 📥 Ingesting 15 rows into project_data
+2025-06-30 17:36:25,897 - INFO - ✅ Database already exists.
+2025-06-30 17:36:26,029 - INFO - ℹ️ project_data table already exists.
+2025-06-30 17:36:26,070 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-30 17:36:26,118 - INFO - 🚀 Ingested 15 rows into project_data.
+2025-06-30 17:36:26,119 - INFO - ✅ Ingested Fund CSV → nigeria_health_funds_20250630_173619.csv
+2025-06-30 17:36:26,121 - INFO - 📦 Archived → nigeria_health_funds_20250630_173619.csv
+2025-06-30 17:36:26,200 - INFO - 📥 Ingesting 8 rows into project_data
+2025-06-30 17:36:26,354 - INFO - ✅ Database already exists.
+2025-06-30 17:36:26,508 - INFO - ℹ️ project_data table already exists.
+2025-06-30 17:36:26,548 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-30 17:36:26,584 - INFO - 🚀 Ingested 8 rows into project_data.
+2025-06-30 17:36:26,585 - INFO - ✅ Ingested Underlying CSV → nigeria_health_underlying_20250630_173623.csv
+2025-06-30 17:36:26,588 - INFO - 📦 Archived → nigeria_health_underlying_20250630_173623.csv
+2025-06-30 18:09:15,161 - WARNING - ⚠️ Duplicate file (by base name) detected, deleting un-ingested copy: nigeria_health_direct_20250630_180907.csv
+2025-06-30 18:09:15,167 - WARNING - ⚠️ Duplicate file (by base name) detected, deleting un-ingested copy: nigeria_health_funds_20250630_180911.csv
+2025-06-30 18:09:15,169 - WARNING - ⚠️ Duplicate file (by base name) detected, deleting un-ingested copy: nigeria_health_underlying_20250630_180914.csv
+2025-06-30 18:11:28,534 - INFO - 📥 Ingesting 3 rows into project_data
+2025-06-30 18:11:28,761 - INFO - ✅ Database already exists.
+2025-06-30 18:11:28,953 - INFO - ℹ️ project_data table already exists.
+2025-06-30 18:11:29,097 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-30 18:11:29,153 - INFO - 🚀 Ingested 3 rows into project_data.
+2025-06-30 18:11:29,153 - INFO - ✅ Ingested Direct CSV → nigeria_health_direct_20250630_181118.csv
+2025-06-30 18:11:29,154 - INFO - 📦 Archived → nigeria_health_direct_20250630_181118.csv
+2025-06-30 18:11:29,199 - INFO - 📥 Ingesting 15 rows into project_data
+2025-06-30 18:11:29,260 - INFO - ✅ Database already exists.
+2025-06-30 18:11:29,317 - INFO - ℹ️ project_data table already exists.
+2025-06-30 18:11:29,334 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-30 18:11:29,358 - INFO - 🚀 Ingested 15 rows into project_data.
+2025-06-30 18:11:29,358 - INFO - ✅ Ingested Fund CSV → nigeria_health_funds_20250630_181124.csv
+2025-06-30 18:11:29,359 - INFO - 📦 Archived → nigeria_health_funds_20250630_181124.csv
+2025-06-30 18:11:29,414 - INFO - 📥 Ingesting 8 rows into project_data
+2025-06-30 18:11:29,613 - INFO - ✅ Database already exists.
+2025-06-30 18:11:29,670 - INFO - ℹ️ project_data table already exists.
+2025-06-30 18:11:29,687 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-06-30 18:11:29,705 - INFO - 🚀 Ingested 8 rows into project_data.
+2025-06-30 18:11:29,706 - INFO - ✅ Ingested Underlying CSV → nigeria_health_underlying_20250630_181127.csv
+2025-06-30 18:11:29,708 - INFO - 📦 Archived → nigeria_health_underlying_20250630_181127.csv
+2025-06-30 18:12:47,089 - WARNING - ⚠️ Duplicate file (by base name) detected, deleting un-ingested copy: nigeria_health_funds_20250630_181241.csv
+2025-06-30 18:12:47,091 - WARNING - ⚠️ Duplicate file (by base name) detected, deleting un-ingested copy: nigeria_health_underlying_20250630_181246.csv
+2025-06-30 18:14:24,959 - WARNING - ⚠️ Duplicate file (by base name) detected, deleting un-ingested copy: nigeria_health_direct_20250630_181407.csv
+2025-06-30 18:14:24,960 - WARNING - ⚠️ Duplicate file (by base name) detected, deleting un-ingested copy: nigeria_health_funds_20250630_181412.csv
+2025-06-30 18:14:24,961 - WARNING - ⚠️ Duplicate file (by base name) detected, deleting un-ingested copy: nigeria_health_underlying_20250630_181424.csv
+2025-07-01 17:25:59,588 - INFO - 📥 Ingesting 10 rows into project_data
+2025-07-01 17:25:59,867 - INFO - ✅ Database already exists.
+2025-07-01 17:25:59,981 - INFO - ℹ️ project_data table already exists.
+2025-07-01 17:26:00,049 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-07-01 17:26:00,136 - INFO - 🚀 Ingested 10 rows into project_data.
+2025-07-01 17:26:00,137 - INFO - 📥 Ingested data successfully.
+2025-07-01 17:27:41,996 - INFO - 📥 Ingesting 10 rows into project_data
+2025-07-01 17:27:42,124 - INFO - ✅ Database already exists.
+2025-07-01 17:27:42,209 - INFO - ℹ️ project_data table already exists.
+2025-07-01 17:27:42,234 - INFO - ℹ️ Columns already TEXT – no migration needed.
+2025-07-01 17:27:42,282 - INFO - 🚀 Ingested 10 rows into project_data.
+2025-07-01 17:27:42,282 - INFO - 📥 Ingested data successfully.

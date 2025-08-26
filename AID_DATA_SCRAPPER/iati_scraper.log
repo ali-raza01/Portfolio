@@ -1,0 +1,448 @@
+2025-06-29 20:10:26,748 - INFO - ✅ Selected value: Nigeria
+2025-06-29 20:10:28,720 - INFO - ✅ Selected value: Health
+2025-06-29 20:10:31,014 - INFO - ✅ Selected value: UNICEF
+2025-06-29 20:10:32,178 - INFO - ✅ Year '2015' selected at //*[@id="view_search_select_year_min_chosen"]
+2025-06-29 20:10:33,346 - INFO - ✅ Year '2022' selected at //*[@id="view_search_select_year_max_chosen"]
+2025-06-29 20:10:54,152 - INFO - ✅ Clicked 'Explore' button
+2025-06-29 20:11:09,640 - INFO - 'View All' button not found or already applied
+2025-06-29 20:11:20,114 - INFO - Finished or no more rows at index 2: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x1024493+62419]
+	GetHandleVerifier [0x0x10244d4+62484]
+	(No symbol) [0x0xe62133]
+	(No symbol) [0x0xeaa8fe]
+	(No symbol) [0x0xeaac9b]
+	(No symbol) [0x0xef3052]
+	(No symbol) [0x0xecf4b4]
+	(No symbol) [0x0xef087a]
+	(No symbol) [0x0xecf266]
+	(No symbol) [0x0xe9e852]
+	(No symbol) [0x0xe9f6f4]
+	GetHandleVerifier [0x0x1294773+2619059]
+	GetHandleVerifier [0x0x128fb8a+2599626]
+	GetHandleVerifier [0x0x104b03a+221050]
+	GetHandleVerifier [0x0x103b2b8+156152]
+	GetHandleVerifier [0x0x1041c6d+183213]
+	GetHandleVerifier [0x0x102c378+94904]
+	GetHandleVerifier [0x0x102c502+95298]
+	GetHandleVerifier [0x0x101765a+9626]
+	BaseThreadInitThunk [0x0x76947ba9+25]
+	RtlInitializeExceptionChain [0x0x76f3c0cb+107]
+	RtlClearBits [0x0x76f3c04f+191]
+
+2025-06-29 20:11:20,121 - INFO - All CSVs downloaded to: E:\Portfolio\code_ver7\iati_downloads
+2025-06-29 20:37:32,960 - INFO - ✅ Selected value: Nigeria
+2025-06-29 20:37:34,901 - INFO - ✅ Selected value: Health
+2025-06-29 20:37:37,216 - INFO - ✅ Selected value: UNICEF
+2025-06-29 20:37:38,478 - INFO - ✅ Year '2015' selected at //*[@id="view_search_select_year_min_chosen"]
+2025-06-29 20:37:39,767 - INFO - ✅ Year '2022' selected at //*[@id="view_search_select_year_max_chosen"]
+2025-06-29 20:37:41,883 - INFO - ✅ Clicked 'Explore' button
+2025-06-29 20:37:57,042 - INFO - 'View All' button not found or already applied
+2025-06-29 20:38:07,551 - INFO - Finished or no more rows at index 2: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7b4493+62419]
+	GetHandleVerifier [0x0x7b44d4+62484]
+	(No symbol) [0x0x5f2133]
+	(No symbol) [0x0x63a8fe]
+	(No symbol) [0x0x63ac9b]
+	(No symbol) [0x0x683052]
+	(No symbol) [0x0x65f4b4]
+	(No symbol) [0x0x68087a]
+	(No symbol) [0x0x65f266]
+	(No symbol) [0x0x62e852]
+	(No symbol) [0x0x62f6f4]
+	GetHandleVerifier [0x0xa24773+2619059]
+	GetHandleVerifier [0x0xa1fb8a+2599626]
+	GetHandleVerifier [0x0x7db03a+221050]
+	GetHandleVerifier [0x0x7cb2b8+156152]
+	GetHandleVerifier [0x0x7d1c6d+183213]
+	GetHandleVerifier [0x0x7bc378+94904]
+	GetHandleVerifier [0x0x7bc502+95298]
+	GetHandleVerifier [0x0x7a765a+9626]
+	BaseThreadInitThunk [0x0x76947ba9+25]
+	RtlInitializeExceptionChain [0x0x76f3c0cb+107]
+	RtlClearBits [0x0x76f3c04f+191]
+
+2025-06-29 20:38:07,552 - INFO - All CSVs downloaded to: E:\Portfolio\code_ver7\iati_downloads
+2025-06-29 20:41:13,743 - INFO - ✅ Selected value: Nigeria
+2025-06-29 20:41:15,699 - INFO - ✅ Selected value: Health
+2025-06-29 20:41:17,723 - INFO - ✅ Selected value: UNICEF
+2025-06-29 20:41:18,963 - INFO - ✅ Year '2015' selected at //*[@id="view_search_select_year_min_chosen"]
+2025-06-29 20:41:20,321 - INFO - ✅ Year '2022' selected at //*[@id="view_search_select_year_max_chosen"]
+2025-06-29 20:41:21,679 - INFO - ✅ Clicked 'Explore' button
+2025-06-29 20:41:37,211 - INFO - 'View All' button not found or already applied
+2025-06-29 20:41:47,244 - INFO - Finished or no more rows at index 2: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7b4493+62419]
+	GetHandleVerifier [0x0x7b44d4+62484]
+	(No symbol) [0x0x5f2133]
+	(No symbol) [0x0x63a8fe]
+	(No symbol) [0x0x63ac9b]
+	(No symbol) [0x0x683052]
+	(No symbol) [0x0x65f4b4]
+	(No symbol) [0x0x68087a]
+	(No symbol) [0x0x65f266]
+	(No symbol) [0x0x62e852]
+	(No symbol) [0x0x62f6f4]
+	GetHandleVerifier [0x0xa24773+2619059]
+	GetHandleVerifier [0x0xa1fb8a+2599626]
+	GetHandleVerifier [0x0x7db03a+221050]
+	GetHandleVerifier [0x0x7cb2b8+156152]
+	GetHandleVerifier [0x0x7d1c6d+183213]
+	GetHandleVerifier [0x0x7bc378+94904]
+	GetHandleVerifier [0x0x7bc502+95298]
+	GetHandleVerifier [0x0x7a765a+9626]
+	BaseThreadInitThunk [0x0x76947ba9+25]
+	RtlInitializeExceptionChain [0x0x76f3c0cb+107]
+	RtlClearBits [0x0x76f3c04f+191]
+
+2025-06-29 20:41:47,250 - INFO - All CSVs downloaded to: E:\Portfolio\code_ver7\iati_downloads
+2025-06-29 20:56:12,252 - INFO - ✅ Selected value: Nigeria
+2025-06-29 20:56:14,236 - INFO - ✅ Selected value: Health
+2025-06-29 20:56:16,389 - INFO - ✅ Selected value: UNICEF
+2025-06-29 20:56:17,620 - INFO - ✅ Year '2015' selected at //*[@id="view_search_select_year_min_chosen"]
+2025-06-29 20:56:18,781 - INFO - ✅ Year '2022' selected at //*[@id="view_search_select_year_max_chosen"]
+2025-06-29 20:56:20,180 - INFO - ✅ Clicked 'Explore' button
+2025-06-29 20:56:35,660 - INFO - 'View All' button not found or already applied
+2025-06-29 20:56:45,673 - INFO - Finished or no more rows at index 2: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7b4493+62419]
+	GetHandleVerifier [0x0x7b44d4+62484]
+	(No symbol) [0x0x5f2133]
+	(No symbol) [0x0x63a8fe]
+	(No symbol) [0x0x63ac9b]
+	(No symbol) [0x0x683052]
+	(No symbol) [0x0x65f4b4]
+	(No symbol) [0x0x68087a]
+	(No symbol) [0x0x65f266]
+	(No symbol) [0x0x62e852]
+	(No symbol) [0x0x62f6f4]
+	GetHandleVerifier [0x0xa24773+2619059]
+	GetHandleVerifier [0x0xa1fb8a+2599626]
+	GetHandleVerifier [0x0x7db03a+221050]
+	GetHandleVerifier [0x0x7cb2b8+156152]
+	GetHandleVerifier [0x0x7d1c6d+183213]
+	GetHandleVerifier [0x0x7bc378+94904]
+	GetHandleVerifier [0x0x7bc502+95298]
+	GetHandleVerifier [0x0x7a765a+9626]
+	BaseThreadInitThunk [0x0x76947ba9+25]
+	RtlInitializeExceptionChain [0x0x76f3c0cb+107]
+	RtlClearBits [0x0x76f3c04f+191]
+
+2025-06-29 20:56:45,675 - INFO - All CSVs downloaded to: E:\Portfolio\code_ver7\iati_downloads
+2025-06-29 21:18:06,784 - INFO - ✅ Selected value: Nigeria
+2025-06-29 21:18:08,796 - INFO - ✅ Selected value: Health
+2025-06-29 21:18:11,013 - INFO - ✅ Selected value: UNICEF
+2025-06-29 21:18:12,407 - INFO - ✅ Year '2015' selected at //*[@id="view_search_select_year_min_chosen"]
+2025-06-29 21:18:13,695 - INFO - ✅ Year '2022' selected at //*[@id="view_search_select_year_max_chosen"]
+2025-06-29 21:18:16,852 - INFO - ✅ Clicked 'Explore' button
+2025-06-29 21:18:32,177 - INFO - 'View All' button not found or already applied
+2025-06-29 21:18:42,451 - INFO - Finished or no more rows at index 2: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xc94493+62419]
+	GetHandleVerifier [0x0xc944d4+62484]
+	(No symbol) [0x0xad2133]
+	(No symbol) [0x0xb1a8fe]
+	(No symbol) [0x0xb1ac9b]
+	(No symbol) [0x0xb63052]
+	(No symbol) [0x0xb3f4b4]
+	(No symbol) [0x0xb6087a]
+	(No symbol) [0x0xb3f266]
+	(No symbol) [0x0xb0e852]
+	(No symbol) [0x0xb0f6f4]
+	GetHandleVerifier [0x0xf04773+2619059]
+	GetHandleVerifier [0x0xeffb8a+2599626]
+	GetHandleVerifier [0x0xcbb03a+221050]
+	GetHandleVerifier [0x0xcab2b8+156152]
+	GetHandleVerifier [0x0xcb1c6d+183213]
+	GetHandleVerifier [0x0xc9c378+94904]
+	GetHandleVerifier [0x0xc9c502+95298]
+	GetHandleVerifier [0x0xc8765a+9626]
+	BaseThreadInitThunk [0x0x76947ba9+25]
+	RtlInitializeExceptionChain [0x0x76f3c0cb+107]
+	RtlClearBits [0x0x76f3c04f+191]
+
+2025-06-29 21:18:42,452 - INFO - All CSVs downloaded to: E:\Portfolio\code_ver7\iati_downloads
+2025-06-29 21:28:40,935 - ERROR - ❌ Failed to select 'Nigeria' at //*[@id="view_search_select_country_chosen"]/ul/li/input: HTTPConnectionPool(host='localhost', port=64045): Read timed out. (read timeout=120)
+2025-06-29 21:29:09,025 - ERROR - ❌ Failed to select 'Health' at //*[@id="view_search_select_sector_chosen"]/ul/li/input: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-06-29 21:29:25,411 - ERROR - ❌ Failed to select 'UNICEF' at //*[@id="view_search_select_publisher_chosen"]/ul/li/input: HTTPConnectionPool(host='localhost', port=64045): Max retries exceeded with url: /session/1ff51662b3d19dc2eac06f1b3919ebd0/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020887504A70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-06-29 21:29:41,804 - ERROR - ❌ Failed to select year '2015' at //*[@id="view_search_select_year_min_chosen"]: HTTPConnectionPool(host='localhost', port=64045): Max retries exceeded with url: /session/1ff51662b3d19dc2eac06f1b3919ebd0/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002088748F570>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-06-29 21:29:58,197 - ERROR - ❌ Failed to select year '2022' at //*[@id="view_search_select_year_max_chosen"]: HTTPConnectionPool(host='localhost', port=64045): Max retries exceeded with url: /session/1ff51662b3d19dc2eac06f1b3919ebd0/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002088755C050>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-06-29 21:30:14,574 - ERROR - ❌ 'Explore' button not found — exiting scraper. Reason: HTTPConnectionPool(host='localhost', port=64045): Max retries exceeded with url: /session/1ff51662b3d19dc2eac06f1b3919ebd0/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002088755CAF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-06-29 21:31:44,871 - INFO - ✅ Selected value: Nigeria
+2025-06-29 21:31:46,811 - INFO - ✅ Selected value: Health
+2025-06-29 21:31:48,900 - INFO - ✅ Selected value: UNICEF
+2025-06-29 21:31:50,165 - INFO - ✅ Year '2015' selected at //*[@id="view_search_select_year_min_chosen"]
+2025-06-29 21:31:51,412 - INFO - ✅ Year '2022' selected at //*[@id="view_search_select_year_max_chosen"]
+2025-06-29 21:31:53,090 - INFO - ✅ Clicked 'Explore' button
+2025-06-29 21:31:58,113 - WARNING - ❌ 'View All' not clickable — trying with reduced filters...
+2025-06-29 21:32:16,241 - WARNING - ⚠️ Failed to clear reporting_org: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x1264493+62419]
+	GetHandleVerifier [0x0x12644d4+62484]
+	(No symbol) [0x0x10a2133]
+	(No symbol) [0x0x10ea8fe]
+	(No symbol) [0x0x10eac9b]
+	(No symbol) [0x0x1133052]
+	(No symbol) [0x0x110f4b4]
+	(No symbol) [0x0x113087a]
+	(No symbol) [0x0x110f266]
+	(No symbol) [0x0x10de852]
+	(No symbol) [0x0x10df6f4]
+	GetHandleVerifier [0x0x14d4773+2619059]
+	GetHandleVerifier [0x0x14cfb8a+2599626]
+	GetHandleVerifier [0x0x128b03a+221050]
+	GetHandleVerifier [0x0x127b2b8+156152]
+	GetHandleVerifier [0x0x1281c6d+183213]
+	GetHandleVerifier [0x0x126c378+94904]
+	GetHandleVerifier [0x0x126c502+95298]
+	GetHandleVerifier [0x0x125765a+9626]
+	BaseThreadInitThunk [0x0x76947ba9+25]
+	RtlInitializeExceptionChain [0x0x76f3c0cb+107]
+	RtlClearBits [0x0x76f3c04f+191]
+
+2025-06-29 21:32:17,364 - INFO - 🧹 Cleared filter: start_year
+2025-06-29 21:32:18,547 - INFO - 🧹 Cleared filter: end_year
+2025-06-29 21:32:20,340 - INFO - ✅ Selected value: Nigeria
+2025-06-29 21:32:22,351 - INFO - ✅ Selected value: UNICEF
+2025-06-29 21:32:24,212 - INFO - ✅ Selected value: Health
+2025-06-29 21:32:26,094 - INFO - ✅ Clicked 'Explore' button
+2025-06-29 21:32:31,113 - WARNING - ❌ 'View All' not clickable — trying with reduced filters...
+2025-06-29 21:32:39,775 - INFO - ✅ Selected value: Nigeria
+2025-06-29 21:32:41,740 - INFO - ✅ Selected value: UNICEF
+2025-06-29 21:32:43,558 - INFO - ✅ Selected value: Health
+2025-06-29 21:32:45,112 - INFO - ✅ Clicked 'Explore' button
+2025-06-29 21:32:50,125 - WARNING - ❌ 'View All' not clickable — trying with reduced filters...
+2025-06-29 21:33:07,685 - WARNING - ⚠️ Failed to clear sector: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x1264493+62419]
+	GetHandleVerifier [0x0x12644d4+62484]
+	(No symbol) [0x0x10a2133]
+	(No symbol) [0x0x10ea8fe]
+	(No symbol) [0x0x10eac9b]
+	(No symbol) [0x0x1133052]
+	(No symbol) [0x0x110f4b4]
+	(No symbol) [0x0x113087a]
+	(No symbol) [0x0x110f266]
+	(No symbol) [0x0x10de852]
+	(No symbol) [0x0x10df6f4]
+	GetHandleVerifier [0x0x14d4773+2619059]
+	GetHandleVerifier [0x0x14cfb8a+2599626]
+	GetHandleVerifier [0x0x128b03a+221050]
+	GetHandleVerifier [0x0x127b2b8+156152]
+	GetHandleVerifier [0x0x1281c6d+183213]
+	GetHandleVerifier [0x0x126c378+94904]
+	GetHandleVerifier [0x0x126c502+95298]
+	GetHandleVerifier [0x0x125765a+9626]
+	BaseThreadInitThunk [0x0x76947ba9+25]
+	RtlInitializeExceptionChain [0x0x76f3c0cb+107]
+	RtlClearBits [0x0x76f3c04f+191]
+
+2025-06-29 21:33:09,585 - INFO - ✅ Selected value: Nigeria
+2025-06-29 21:33:11,677 - INFO - ✅ Selected value: UNICEF
+2025-06-29 21:33:13,515 - INFO - ✅ Selected value: Health
+2025-06-29 21:33:15,279 - INFO - ✅ Clicked 'Explore' button
+2025-06-29 21:33:20,297 - WARNING - ❌ 'View All' not clickable — trying with reduced filters...
+2025-06-29 21:33:20,298 - ERROR - ❌ Maximum filter reductions reached. Exiting.
+2025-06-29 21:37:40,512 - INFO - ✅ Selected value: Nigeria
+2025-06-29 21:37:42,377 - INFO - ✅ Selected value: Health
+2025-06-29 21:37:44,662 - INFO - ✅ Selected value: UNICEF
+2025-06-29 21:37:45,853 - INFO - ✅ Year '2015' selected at //*[@id="view_search_select_year_min_chosen"]
+2025-06-29 21:37:47,014 - INFO - ✅ Year '2022' selected at //*[@id="view_search_select_year_max_chosen"]
+2025-06-29 21:37:49,016 - INFO - ✅ Clicked 'Explore' button
+2025-06-29 21:37:54,076 - WARNING - ❌ 'View All' not clickable — trying with reduced filters...
+2025-06-29 21:38:11,988 - WARNING - ⚠️ Failed to clear reporting_org: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9b4493+62419]
+	GetHandleVerifier [0x0x9b44d4+62484]
+	(No symbol) [0x0x7f2133]
+	(No symbol) [0x0x83a8fe]
+	(No symbol) [0x0x83ac9b]
+	(No symbol) [0x0x883052]
+	(No symbol) [0x0x85f4b4]
+	(No symbol) [0x0x88087a]
+	(No symbol) [0x0x85f266]
+	(No symbol) [0x0x82e852]
+	(No symbol) [0x0x82f6f4]
+	GetHandleVerifier [0x0xc24773+2619059]
+	GetHandleVerifier [0x0xc1fb8a+2599626]
+	GetHandleVerifier [0x0x9db03a+221050]
+	GetHandleVerifier [0x0x9cb2b8+156152]
+	GetHandleVerifier [0x0x9d1c6d+183213]
+	GetHandleVerifier [0x0x9bc378+94904]
+	GetHandleVerifier [0x0x9bc502+95298]
+	GetHandleVerifier [0x0x9a765a+9626]
+	BaseThreadInitThunk [0x0x76947ba9+25]
+	RtlInitializeExceptionChain [0x0x76f3c0cb+107]
+	RtlClearBits [0x0x76f3c04f+191]
+
+2025-06-29 21:38:13,110 - INFO - 🧹 Cleared filter: start_year
+2025-06-29 21:38:14,215 - INFO - 🧹 Cleared filter: end_year
+2025-06-29 21:38:16,029 - INFO - ✅ Selected value: Nigeria
+2025-06-29 21:38:17,985 - INFO - ✅ Selected value: UNICEF
+2025-06-29 21:38:19,731 - INFO - ✅ Selected value: Health
+2025-06-29 21:38:21,058 - INFO - ✅ Clicked 'Explore' button
+2025-06-29 21:38:26,075 - WARNING - ❌ 'View All' not clickable — trying with reduced filters...
+2025-06-29 21:38:34,636 - INFO - ✅ Selected value: Nigeria
+2025-06-29 21:38:36,576 - INFO - ✅ Selected value: UNICEF
+2025-06-29 21:38:38,390 - INFO - ✅ Selected value: Health
+2025-06-29 21:38:39,699 - INFO - ✅ Clicked 'Explore' button
+2025-06-29 21:38:44,713 - WARNING - ❌ 'View All' not clickable — trying with reduced filters...
+2025-06-29 21:39:03,017 - WARNING - ⚠️ Failed to clear sector: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9b4493+62419]
+	GetHandleVerifier [0x0x9b44d4+62484]
+	(No symbol) [0x0x7f2133]
+	(No symbol) [0x0x83a8fe]
+	(No symbol) [0x0x83ac9b]
+	(No symbol) [0x0x883052]
+	(No symbol) [0x0x85f4b4]
+	(No symbol) [0x0x88087a]
+	(No symbol) [0x0x85f266]
+	(No symbol) [0x0x82e852]
+	(No symbol) [0x0x82f6f4]
+	GetHandleVerifier [0x0xc24773+2619059]
+	GetHandleVerifier [0x0xc1fb8a+2599626]
+	GetHandleVerifier [0x0x9db03a+221050]
+	GetHandleVerifier [0x0x9cb2b8+156152]
+	GetHandleVerifier [0x0x9d1c6d+183213]
+	GetHandleVerifier [0x0x9bc378+94904]
+	GetHandleVerifier [0x0x9bc502+95298]
+	GetHandleVerifier [0x0x9a765a+9626]
+	BaseThreadInitThunk [0x0x76947ba9+25]
+	RtlInitializeExceptionChain [0x0x76f3c0cb+107]
+	RtlClearBits [0x0x76f3c04f+191]
+
+2025-06-29 21:39:04,890 - INFO - ✅ Selected value: Nigeria
+2025-06-29 21:39:06,910 - INFO - ✅ Selected value: UNICEF
+2025-06-29 21:39:08,760 - INFO - ✅ Selected value: Health
+2025-06-29 21:39:10,329 - INFO - ✅ Clicked 'Explore' button
+2025-06-29 21:39:15,347 - WARNING - ❌ 'View All' not clickable — trying with reduced filters...
+2025-06-29 21:39:15,347 - ERROR - ❌ Maximum filter reductions reached. Exiting.
+2025-06-29 21:45:01,529 - INFO - ✅ Selected value: Nigeria
+2025-06-29 21:45:03,499 - INFO - ✅ Selected value: Health
+2025-06-29 21:45:05,541 - INFO - ✅ Selected value: UNICEF
+2025-06-29 21:45:06,884 - INFO - ✅ Year '2015' selected at //*[@id="view_search_select_year_min_chosen"]
+2025-06-29 21:45:08,008 - INFO - ✅ Year '2022' selected at //*[@id="view_search_select_year_max_chosen"]
+2025-06-29 21:45:09,745 - INFO - ✅ Clicked 'Explore' button
+2025-06-29 21:45:14,768 - WARNING - ❌ 'View All' not clickable — trying with reduced filters...
+2025-06-29 21:45:21,888 - INFO - 🧹 Removed filter from dict: reporting_org
+2025-06-29 21:45:21,894 - INFO - 🧹 Removed filter from dict: start_year
+2025-06-29 21:45:21,894 - INFO - 🧹 Removed filter from dict: end_year
+2025-06-29 21:45:23,678 - INFO - ✅ Selected value: Nigeria
+2025-06-29 21:45:25,519 - INFO - ✅ Selected value: Health
+2025-06-29 21:45:27,647 - INFO - ✅ Clicked 'Explore' button
+2025-06-29 21:45:32,862 - INFO - ✅ Clicked 'View All' — filters sufficient
+2025-06-29 21:45:38,872 - INFO - Finished or no more rows at index 2: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=138.0.7204.49)
+Stacktrace:
+	GetHandleVerifier [0x0x9b4493+62419]
+	GetHandleVerifier [0x0x9b44d4+62484]
+	(No symbol) [0x0x7f2133]
+	(No symbol) [0x0x7e1b40]
+	(No symbol) [0x0x7ff912]
+	(No symbol) [0x0x865d6c]
+	(No symbol) [0x0x880159]
+	(No symbol) [0x0x85f266]
+	(No symbol) [0x0x82e852]
+	(No symbol) [0x0x82f6f4]
+	GetHandleVerifier [0x0xc24773+2619059]
+	GetHandleVerifier [0x0xc1fb8a+2599626]
+	GetHandleVerifier [0x0x9db03a+221050]
+	GetHandleVerifier [0x0x9cb2b8+156152]
+	GetHandleVerifier [0x0x9d1c6d+183213]
+	GetHandleVerifier [0x0x9bc378+94904]
+	GetHandleVerifier [0x0x9bc502+95298]
+	GetHandleVerifier [0x0x9a765a+9626]
+	BaseThreadInitThunk [0x0x76947ba9+25]
+	RtlInitializeExceptionChain [0x0x76f3c0cb+107]
+	RtlClearBits [0x0x76f3c04f+191]
+
+2025-06-29 21:45:38,873 - INFO - All CSVs downloaded to: E:\Portfolio\code_ver7\iati_downloads
+2025-06-29 22:00:41,076 - INFO - ✅ Selected value: Nigeria
+2025-06-29 22:00:42,845 - INFO - ✅ Selected value: Health
+2025-06-29 22:00:44,710 - INFO - ✅ Selected value: UNICEF
+2025-06-29 22:00:45,846 - INFO - ✅ Year '2015' selected at //*[@id="view_search_select_year_min_chosen"]
+2025-06-29 22:00:46,897 - INFO - ✅ Year '2022' selected at //*[@id="view_search_select_year_max_chosen"]
+2025-06-29 22:00:48,192 - INFO - ✅ Clicked 'Explore' button
+2025-06-29 22:00:53,209 - WARNING - ❌ 'View All' not clickable — trying with reduced filters...
+2025-06-29 22:01:00,012 - INFO - 🧹 Removed filter from dict: reporting_org
+2025-06-29 22:01:01,737 - INFO - ✅ Selected value: Nigeria
+2025-06-29 22:01:03,441 - INFO - ✅ Selected value: Health
+2025-06-29 22:01:04,541 - INFO - ✅ Year '2015' selected at //*[@id="view_search_select_year_min_chosen"]
+2025-06-29 22:01:05,647 - INFO - ✅ Year '2022' selected at //*[@id="view_search_select_year_max_chosen"]
+2025-06-29 22:01:06,690 - INFO - ✅ Clicked 'Explore' button
+2025-06-29 22:01:11,941 - INFO - ✅ Clicked 'View All' — filters sufficient
+2025-06-29 22:01:19,148 - INFO - Clicked row 2
+2025-06-29 22:01:23,177 - INFO - 🔗 CSV link: https://d-portal.org/q.csv?aid=US-GOV-1-72062018F00006
+2025-06-29 22:01:24,267 - INFO - ✅ File downloaded and renamed to: E:\Portfolio\code_ver7\iati_downloads\https%3A%2F%2Fd-portal.org%2Fq.csv%3Faid%3DUS-GOV-1-72062018F00006.csv
+2025-06-29 22:01:34,715 - INFO - Finished or no more rows at index 3: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xc64493+62419]
+	GetHandleVerifier [0x0xc644d4+62484]
+	(No symbol) [0x0xaa2133]
+	(No symbol) [0x0xaea8fe]
+	(No symbol) [0x0xaeac9b]
+	(No symbol) [0x0xb33052]
+	(No symbol) [0x0xb0f4b4]
+	(No symbol) [0x0xb3087a]
+	(No symbol) [0x0xb0f266]
+	(No symbol) [0x0xade852]
+	(No symbol) [0x0xadf6f4]
+	GetHandleVerifier [0x0xed4773+2619059]
+	GetHandleVerifier [0x0xecfb8a+2599626]
+	GetHandleVerifier [0x0xc8b03a+221050]
+	GetHandleVerifier [0x0xc7b2b8+156152]
+	GetHandleVerifier [0x0xc81c6d+183213]
+	GetHandleVerifier [0x0xc6c378+94904]
+	GetHandleVerifier [0x0xc6c502+95298]
+	GetHandleVerifier [0x0xc5765a+9626]
+	BaseThreadInitThunk [0x0x76627ba9+25]
+	RtlInitializeExceptionChain [0x0x7765c0cb+107]
+	RtlClearBits [0x0x7765c04f+191]
+
+2025-06-29 22:01:34,718 - INFO - All CSVs downloaded to: E:\Portfolio\code_ver7\iati_downloads
+2025-06-30 15:26:05,068 - INFO - ✅ Selected value: Afghanistan
+2025-06-30 15:26:07,039 - INFO - ✅ Selected value: Health
+2025-06-30 15:26:09,136 - INFO - ✅ Selected value: UNICEF
+2025-06-30 15:26:10,421 - INFO - ✅ Year '2015' selected at //*[@id="view_search_select_year_min_chosen"]
+2025-06-30 15:26:11,902 - INFO - ✅ Year '2022' selected at //*[@id="view_search_select_year_max_chosen"]
+2025-06-30 15:26:15,802 - INFO - ✅ Clicked 'Explore' button
+2025-06-30 15:26:20,865 - WARNING - ❌ 'View All' not clickable — trying with reduced filters...
+2025-06-30 15:26:28,360 - INFO - 🧹 Removed filter from dict: reporting_org
+2025-06-30 15:26:30,676 - INFO - ✅ Selected value: Afghanistan
+2025-06-30 15:26:32,783 - INFO - ✅ Selected value: Health
+2025-06-30 15:26:34,249 - INFO - ✅ Year '2015' selected at //*[@id="view_search_select_year_min_chosen"]
+2025-06-30 15:26:35,594 - INFO - ✅ Year '2022' selected at //*[@id="view_search_select_year_max_chosen"]
+2025-06-30 15:26:36,893 - INFO - ✅ Clicked 'Explore' button
+2025-06-30 15:26:42,189 - INFO - ✅ Clicked 'View All' — filters sufficient
+2025-06-30 15:26:49,767 - INFO - Clicked row 2
+2025-06-30 15:26:53,907 - INFO - 🔗 CSV link: https://d-portal.org/q.csv?aid=DAC-1601-INV-049397
+2025-06-30 15:26:56,126 - INFO - ✅ File downloaded and renamed to: E:\Portfolio\code_ver7\iati_downloads\https%3A%2F%2Fd-portal.org%2Fq.csv%3Faid%3DDAC-1601-INV-049397.csv
+2025-06-30 15:27:06,172 - INFO - Finished or no more rows at index 3: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf24493+62419]
+	GetHandleVerifier [0x0xf244d4+62484]
+	(No symbol) [0x0xd62133]
+	(No symbol) [0x0xdaa8fe]
+	(No symbol) [0x0xdaac9b]
+	(No symbol) [0x0xdf3052]
+	(No symbol) [0x0xdcf4b4]
+	(No symbol) [0x0xdf087a]
+	(No symbol) [0x0xdcf266]
+	(No symbol) [0x0xd9e852]
+	(No symbol) [0x0xd9f6f4]
+	GetHandleVerifier [0x0x1194773+2619059]
+	GetHandleVerifier [0x0x118fb8a+2599626]
+	GetHandleVerifier [0x0xf4b03a+221050]
+	GetHandleVerifier [0x0xf3b2b8+156152]
+	GetHandleVerifier [0x0xf41c6d+183213]
+	GetHandleVerifier [0x0xf2c378+94904]
+	GetHandleVerifier [0x0xf2c502+95298]
+	GetHandleVerifier [0x0xf1765a+9626]
+	BaseThreadInitThunk [0x0x76627ba9+25]
+	RtlInitializeExceptionChain [0x0x7765c0cb+107]
+	RtlClearBits [0x0x7765c04f+191]
+
+2025-06-30 15:27:06,173 - INFO - All CSVs downloaded to: E:\Portfolio\code_ver7\iati_downloads

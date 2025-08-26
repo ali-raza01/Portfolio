@@ -1,0 +1,10 @@
+2025-06-29 20:05:30,464 - INFO - 🌐 Requesting World Bank project data for: Nigeria
+2025-06-29 20:05:31,976 - INFO - ✅ Saved World Bank data to world_bank_downloads\NG_SG_VAW_1549_20250629_200531.csv
+2025-06-29 20:05:32,524 - INFO - 📦 Moved file to archive: world_bank_downloads\archive\NG_SG_VAW_1549_20250629_200531.csv
+2025-07-01 17:19:14,917 - INFO - 🌐 Requesting World Bank project data for: Columbia
+2025-07-01 17:25:58,052 - INFO - 🌐 Requesting World Bank project data for: Colombia
+2025-07-01 17:25:59,585 - INFO - ✅ Saved World Bank data to world_bank_downloads\CO_SG_VAW_1549_20250701_172559.csv
+2025-07-01 17:26:00,138 - INFO - 📦 Moved file to archive: world_bank_downloads\archive\CO_SG_VAW_1549_20250701_172559.csv
+2025-07-01 17:27:40,932 - INFO - 🌐 Requesting World Bank project data for: Colombia
+2025-07-01 17:27:41,994 - INFO - ✅ Saved World Bank data to world_bank_downloads\CO_2_0_cov_20250701_172741.csv
+2025-07-01 17:27:42,283 - INFO - 📦 Moved file to archive: world_bank_downloads\archive\CO_2_0_cov_20250701_172741.csv

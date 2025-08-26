@@ -1,0 +1,8 @@
+2025-06-29 20:10:01,263 - INFO - 🌐  UN-SDG request → indicator=None | area=566 | 2015-2022
+2025-06-29 20:10:01,264 - INFO - 🔗 Final SDG API URL → https://unstats.un.org/sdgs/UNSDGAPIV5/v1/sdg/Indicator/Data?areaCode=566&timePeriodStart=2015&timePeriodEnd=2022
+2025-06-29 20:10:05,296 - INFO - 📦 Total raw items from SDG API: 25
+2025-06-29 20:10:05,305 - INFO - 🔍 First item: {'goal': ['1'], 'target': ['1.1'], 'indicator': ['1.1.1'], 'series': 'SI_POV_DAY1', 'seriesDescription': 'Proportion of population below international poverty line (%)', 'seriesCount': '10304', 'geoAreaCode': '566', 'geoAreaName': 'Nigeria', 'timePeriodStart': 2015, 'value': '32.3', 'valueType': 'Float', 'time_detail': None, 'timeCoverage': None, 'upperBound': None, 'lowerBound': None, 'basePeriod': '2017', 'source': 'Poverty and Inequality Portal, World Bank', 'geoInfoUrl': None, 'footnotes': ['Accessed September 19, 2024. Based on data from GHSP-W3. Estimated from imputed unit-record consumption data. PPP is partially imputed.'], 'attributes': {'Nature': 'G'}, 'dimensions': {'Age': 'ALLAGE', 'Reporting Type': 'G', 'Sex': 'BOTHSEX', 'Location': 'RURAL'}}
+2025-06-29 20:10:05,374 - INFO - ✅ Parsed 25 SDG records
+2025-06-29 20:10:05,384 - INFO - 💾 Saved raw file → E:\Portfolio\code_ver7\sdgs_downloads\sdg_None_566_2015_2022_20250629_151005.csv
+2025-06-29 20:10:05,591 - INFO - 📥 Ingestion complete
+2025-06-29 20:10:05,592 - INFO - 📦 Moved to archive → E:\Portfolio\code_ver7\sdgs_downloads\archive\sdg_None_566_2015_2022_20250629_151005.csv
